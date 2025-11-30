@@ -1,6 +1,6 @@
 """
 Modelos de redes neuronales para clasificación de sentimientos.
-Incluye: FNN (Feedforward), CNN, RNN (LSTM/GRU)
+Incluye: FNN (Feedforward), CNN, RNN (LSTM)
 """
 import numpy as np
 import pandas as pd
@@ -10,8 +10,8 @@ from sklearn.preprocessing import LabelEncoder
 import tensorflow as tf
 from tensorflow.keras.models import Sequential, Model
 from tensorflow.keras.layers import (
-    Dense, Dropout, Embedding, LSTM, GRU, 
-    Conv1D, GlobalMaxPooling1D, Bidirectional,
+    Dense, Dropout, Embedding, LSTM,
+    Conv1D, GlobalMaxPooling1D,
     Input, Flatten
 )
 from tensorflow.keras.preprocessing.text import Tokenizer
@@ -36,7 +36,7 @@ class NeuralClassifier:
         Inicializa el clasificador neuronal.
         
         Args:
-            model_type: 'fnn', 'cnn', 'lstm', 'gru', o 'bilstm'
+            model_type: 'fnn', 'cnn', o 'lstm'
             max_words: Vocabulario máximo
             max_len: Longitud máxima de secuencia
             embedding_dim: Dimensión de embeddings
@@ -93,36 +93,12 @@ class NeuralClassifier:
         ])
         return model
     
-    def _build_gru(self) -> Model:
-        """Red GRU."""
-        model = Sequential([
-            Embedding(self.max_words, self.embedding_dim, input_length=self.max_len),
-            GRU(128, dropout=0.2, recurrent_dropout=0.2),
-            Dense(64, activation='relu'),
-            Dropout(0.5),
-            Dense(self.num_classes, activation='softmax')
-        ])
-        return model
-    
-    def _build_bilstm(self) -> Model:
-        """Red Bidirectional LSTM."""
-        model = Sequential([
-            Embedding(self.max_words, self.embedding_dim, input_length=self.max_len),
-            Bidirectional(LSTM(64, dropout=0.2, recurrent_dropout=0.2)),
-            Dense(64, activation='relu'),
-            Dropout(0.5),
-            Dense(self.num_classes, activation='softmax')
-        ])
-        return model
-    
     def _build_model(self) -> Model:
         """Construye el modelo según el tipo especificado."""
         builders = {
             'fnn': self._build_fnn,
             'cnn': self._build_cnn,
-            'lstm': self._build_lstm,
-            'gru': self._build_gru,
-            'bilstm': self._build_bilstm
+            'lstm': self._build_lstm
         }
         
         if self.model_type not in builders:
@@ -313,7 +289,7 @@ def train_and_compare_neural_models(
     print(f"Train: {len(X_train)}, Val: {len(X_val)}, Test: {len(X_test)}")
     
     results = {}
-    model_types = ['fnn', 'cnn', 'lstm']  # Puedes agregar 'gru', 'bilstm'
+    model_types = ['fnn', 'cnn', 'lstm']
     
     for model_type in model_types:
         print(f"\n{'='*50}")
