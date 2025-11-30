@@ -1,0 +1,1001 @@
+role,genre,age,comment,kind_of_comment,complaint
+alumno,hombre,29,El precio de la comida está carísimo para lo que entregan.,negativo,precio
+trabajador,hombre,48,"Todo bien, gracias por mantener la cafetería ordenada.",neutro,
+madre,mujer,69,"Como madre de familia, el sabor de la comida de la cafetería de la Universidad Panamericana deja mucho que desear.",negativo,sabor
+alumno,mujer,20,Me encanta la vibra de la cafetería; siempre hay buen ambiente para estudiar entre clases.,positivo,
+alumno,hombre,25,El precio está caro para lo que ofrecen y la atención deja mucho que desear.,negativo,precio
+alumno,hombre,17,La variedad es muy limitada y no encuentro opciones que me gusten para comer entre clases.,negativo,variedad
+alumno,hombre,26,"La cafetería funciona bien, sin complicaciones para estudiar.",neutro,
+padre,hombre,47,"En general, la cafetería funciona para los días ocupados.",neutro,
+madre,mujer,50,"Como mamá, la comida está deliciosa y el ambiente es muy agradable.",positivo,
+alumno,hombre,18,"El sabor de la comida está mal, no invita a comer entre clases.",negativo,sabor
+madre,mujer,79,"Como madre de 79 años, el sabor de la comida de la cafetería ya no me gusta.",negativo,sabor
+trabajador,mujer,34,"Como trabajadora, me encanta la atención y el ambiente.",positivo,
+visita,mujer,70,"Como mujer visitante de 70 años, siento que el precio está demasiado alto para lo que ofrecen.",negativo,precio
+alumno,hombre,18,"Precio exageradamente alto, la comida no alcanza para mi presupuesto.",negativo,precio
+visita,mujer,40,"Como mujer visitante, las instalaciones están descuidadas y el ambiente no invita a quedarte.",negativo,instalaciones
+alumno,mujer,23,"Como alumna, la comida está deliciosa y el servicio es muy amable.",positivo,
+trabajador,hombre,39,"Como trabajador, valoro el buen servicio y el ambiente de la cafetería.",positivo,
+madre,mujer,45,"Como madre, me encanta la atención y la calidad de la cafetería de la Universidad Panamericana.",positivo,
+padre,hombre,45,"Como papá de 45 años, la cafetería de la Universidad Panamericana me deja muy satisfecho.",positivo,
+alumno,hombre,19,"La cafetería funciona, sin nada que destacar.",neutro,
+alumno,mujer,28,"Como alumna, el sabor de la comida es lo que más me falla; el resto podría mejorar.",negativo,sabor
+alumno,hombre,20,La cafetería funciona bien para mis días en la uni.,neutro,
+padre,hombre,70,"Como padre de 70 años, la variedad de opciones en la cafetería ya no cubre mis gustos y me deja con poco para elegir.",negativo,variedad
+padre,hombre,61,"Como padre, el precio en la cafetería está muy alto; no vale lo que cuesta y la atención deja mucho que desear.",negativo,precio
+maestro,mujer,44,"Como profesora, la cafetería de la universidad siempre ofrece excelente atención y un ambiente agradable.",positivo,
+trabajador,hombre,43,"Como trabajador, valoro la atención cordial y la rapidez; la cafetería mantiene al equipo con buena energía.",positivo,
+madre,mujer,55,"Como mamá de la universidad, la cafetería siempre me recibe con calidez y buen sabor.",positivo,
+alumno,mujer,23,El sabor de la comida de la cafetería ha estado pésimo; ojalá lo mejoren pronto.,negativo,sabor
+alumno,hombre,25,La cafetería siempre me da energía entre clases.,positivo,
+alumno,hombre,25,"Por ahora, todo está en orden.",neutro,
+alumno,hombre,21,"La cafetería está bien, sin nada que señalar.",neutro,
+alumno,mujer,22,"El sabor de la comida de la cafetería está mal, parece que no hay sazón y la textura no ayuda.",negativo,sabor
+madre,mujer,68,"Como madre ocupada, agradezco la atención y la variedad, siempre encuentro algo sabroso para el día.",positivo,
+alumno,hombre,30,"La cafetería de la Universidad Panamericana siempre tiene buen ambiente y servicio, me encanta.",positivo,
+maestro,mujer,31,"Como maestra, el precio en la cafetería es excesivo y la atención podría mejorar.",negativo,precio
+maestro,mujer,39,"Como maestra, me encanta la cafetería; buen ambiente y servicio amable.",positivo,
+alumno,hombre,23,"Como estudiante, la cafetería está de lujo, buen ambiente y servicio rápido.",positivo,
+alumno,hombre,19,La cafetería está chida y siempre atienden bien.,positivo,
+alumno,mujer,18,"Como alumna de 18 años, los precios en la cafetería están muy altos para lo que ofrecen.",negativo,precio
+maestro,hombre,48,"Como profesor, la cafetería me recarga entre clases.",positivo,
+maestro,mujer,39,"Como profesora, el precio de la comida está carísimo para lo que ofrecen.",negativo,precio
+alumno,hombre,22,La cafetería tiene un ambiente increíble y el servicio es excelente.,positivo,
+trabajador,mujer,40,"Como trabajadora de la cafetería, el precio está muy alto para lo que ofrecen; ya no me compensa.",negativo,precio
+trabajador,mujer,29,"Como empleada, la cafetería funciona con normalidad.",neutro,
+alumno,mujer,30,"El sabor de la comida en la cafetería está mal, como alumna de 30 años, la neta, el precio es alto para lo que ofrecen.",negativo,sabor
+visita,mujer,49,"Excelente experiencia, volveré a esa cafetería pronto.",positivo,
+maestro,hombre,58,"Como maestro de 58 años, la variedad de opciones en la cafetería es muy limitada.",negativo,variedad
+alumno,hombre,25,No me convence el sabor de la comida de la cafetería; está insípido y le falta sazón.,negativo,sabor
+alumno,mujer,23,"La cafetería de la uni está increíble, siempre me da buena energía entre clases.",positivo,
+maestro,mujer,48,"Como profesora de 48 años, el precio está por las nubes y la atención podría mejorar.",negativo,precio
+alumno,hombre,18,Las instalaciones de la cafetería están pésimas; como alumno de 18 años me frustra el mobiliario y el ambiente.,negativo,instalaciones
+maestro,mujer,51,"Como maestra, el precio está por encima de lo razonable y la atención deja mucho que desear.",negativo,precio
+madre,mujer,72,"Como madre de 72 años, el sabor me decepciona.",negativo,sabor
+madre,mujer,54,"El sabor de los platillos deja mucho que desear; como madre que acompaña a su hijo, espero mejoras.",negativo,sabor
+alumno,mujer,25,"Me encanta la cafetería, siempre me atienden con buena vibra.",positivo,
+alumno,hombre,25,Las instalaciones están deplorables; se ven descuidadas y no invitan a estudiar.,negativo,instalaciones
+alumno,hombre,18,"El precio está por las nubes; como alumno de 18 años, no vale lo que pago.",negativo,precio
+maestro,mujer,39,"Las instalaciones están en mal estado y, como profesora, afectan mis clases diarias.",negativo,instalaciones
+padre,hombre,42,Sabor deficiente en la cafetería; espero que mejoren la calidad para que mi hijo esté satisfecho.,negativo,sabor
+alumno,hombre,25,"La cafetería está excelente, buen ambiente y servicio muy atento.",positivo,
+alumno,mujer,17,"Me encanta la cafetería, siempre hay opciones rápidas y deliciosas.",positivo,
+alumno,hombre,25,La cafetería del campus siempre me acompaña bien entre clases.,positivo,
+trabajador,mujer,46,"Como trabajadora, la atención en la cafetería es excelente y el ambiente me agrada.",positivo,
+alumno,hombre,20,El precio está muy alto y la calidad no vale lo que cuesta.,negativo,precio
+padre,hombre,67,El precio está muy alto; la atención deja mucho que desear.,negativo,precio
+visita,hombre,64,Me encanta la atención y el ambiente; volveré con gusto.,positivo,
+visita,hombre,70,"Como visitante de 70 años, el sabor dejó mucho que desear y el servicio fue lento.",negativo,sabor
+alumno,hombre,21,La experiencia en la cafetería estuvo normal.,neutro,
+alumno,mujer,24,"Como alumna de 24 años, me encanta la cafetería de la Universidad Panamericana.",positivo,
+alumno,mujer,19,"La cafetería me funciona para mis clases, nada que destacar.",neutro,
+alumno,mujer,27,"Como alumna, me encanta la variedad y el ambiente siempre agradable.",positivo,
+maestro,hombre,55,"Como maestro, la cafetería mantiene buen servicio y calidad.",positivo,
+trabajador,hombre,49,"La variedad de opciones en la cafetería es muy limitada, lo que complica comer entre mis turnos.",negativo,variedad
+madre,mujer,46,"Como mamá, el sabor de la comida me decepciona y espero que mejoren pronto.",negativo,sabor
+alumno,hombre,28,Sabor decepcionante; como alumno de 28 años esperaba platillos más sabrosos.,negativo,sabor
+alumno,hombre,30,La cafetería universitaria está excelente; el servicio y la comida siempre me levantan el ánimo.,positivo,
+alumno,hombre,27,"La cafetería de la Panamericana está excelente, buen ambiente y atención.",positivo,
+alumno,mujer,27,"Como alumna, la cafetería está excelente, me encanta el ambiente y la buena vibra.",positivo,
+maestro,hombre,51,La cafetería funciona muy bien para mis horas de docencia.,positivo,
+alumno,hombre,19,"Precio alto, la porción es chica; como alumno de 19 años, siento que la cafetería no vale lo que cuesta.",negativo,precio
+alumno,hombre,29,La cafetería cumple con lo básico.,neutro,
+madre,mujer,60,"Variedad insuficiente en la cafetería; como mamá de 60, me preocupa que ya no haya opciones para todos.",negativo,variedad
+maestro,mujer,45,"Como profesora, valoro la atención y el ambiente entre clases.",positivo,
+alumno,mujer,29,"Como alumna de 29 años, me parece caro el café; por el precio siento que la calidad no compensa.",negativo,precio
+maestro,hombre,32,"El precio de los platillos está por las nubes; como maestro, eso no cuadra.",negativo,precio
+alumno,mujer,18,"El precio es muy alto para lo que ofrecen, como alumna me cuesta seguirle el paso.",negativo,precio
+padre,hombre,40,"Como padre, la cafetería se mantiene estable, sin cambios relevantes.",neutro,
+madre,mujer,70,"Sabor decepcionante; como madre de 70 años, esperaba algo más sabroso.",negativo,sabor
+alumno,mujer,28,"El precio está muy alto para lo que ofrecen, como alumna busco opciones más accesibles.",negativo,precio
+padre,hombre,69,La cafetería funciona bien para las pausas entre clases.,neutro,
+padre,hombre,47,"Como papá de 47 años, el precio está muy alto para lo que venden; la atención deja mucho que desear.",negativo,precio
+maestro,hombre,40,La cafetería ofrece un servicio excelente y buen ambiente para trabajar entre clases.,positivo,
+maestro,mujer,37,"Como profesora, siento que el precio está por las nubes y me está afectando el presupuesto.",negativo,precio
+alumno,mujer,30,Es práctico venir a la cafetería entre clases.,neutro,
+trabajador,hombre,44,"Como trabajador, el precio está muy alto para lo que ofrecen; la atención y la limpieza también dejan que desear.",negativo,precio
+alumno,mujer,28,"Sabor decepcionante hoy; como alumna, la atención dejó mucho que desear.",negativo,sabor
+maestro,hombre,55,Es una cafetería razonable; cumple con lo básico.,neutro,
+alumno,hombre,21,"La cafetería de la uni está bien chida, buen sabor y ambiente.",positivo,
+alumno,hombre,25,"La cafetería está bien, sin nada que resaltar.",neutro,
+alumno,mujer,22,Variedad insuficiente en la cafetería de la Universidad Panamericana; no encuentro opciones que me sirvan para la semana.,negativo,variedad
+madre,mujer,47,,negativo,sabor
+alumno,hombre,17,"Variedad insuficiente en la cafetería y ya me tiene harto, siento que faltan opciones para mi horario.",negativo,variedad
+alumno,hombre,18,La cafetería está bien; nada que comentar por ahora.,neutro,
+visita,mujer,49,La cafetería está muy agradable; la comida está deliciosa y la atención es excelente.,positivo,
+maestro,mujer,39,"Como profesora, la cafetería funciona bien a diario.",neutro,
+alumno,hombre,23,"Sabor de los platillos malísimo, como alumno entre clases ya no aguanto la cafetería.",negativo,sabor
+madre,mujer,49,"Como mamá, la comida de la cafetería de la Universidad Panamericana siempre me alegra el día.",positivo,
+visita,hombre,40,La visita estuvo adecuada; nada que señalar.,neutro,
+maestro,hombre,39,"La variedad de opciones en la cafetería es limitada, como profesor me complica mi rutina entre clases.",negativo,variedad
+madre,mujer,45,"Como mamá, me encanta la atención y la variedad; es muy conveniente.",positivo,
+padre,hombre,40,"Como padre, la cafetería me ofrece calidad constante y buen servicio.",positivo,
+madre,mujer,80,"Como madre de familia, a mi edad, me decepciona el sabor de la comida de la cafetería; por favor, mejoren la sazón.",negativo,sabor
+maestro,mujer,30,"Como profesora, la cafetería cumple con su función.",neutro,
+madre,mujer,52,"El precio está muy alto para lo que ofrecen, y la atención y la variedad podrían mejorar.",negativo,precio
+padre,hombre,44,"Como padre de familia, los precios en la cafetería están por las nubes y eso me desanima.",negativo,precio
+maestro,hombre,43,"Como maestro, la variedad de la cafetería es muy limitada y no hay opciones que sorprendan.",negativo,variedad
+alumno,mujer,25,"Como alumna, me encanta la vibra de la cafetería y el sabor de la comida.",positivo,
+alumno,mujer,24,"Como alumna, me encanta la cafetería, buen ambiente para estudiar.",positivo,
+alumno,mujer,19,"El sabor de la comida deja mucho que desear y, además, el ambiente entre clases se siente pesado.",negativo,sabor
+alumno,hombre,29,"El precio está muy alto, la atención podría mejorar.",negativo,precio
+alumno,mujer,30,"Como alumna de 30 años, los precios están por las nubes para lo que ofrecen; la comida no vale el costo.",negativo,precio
+alumno,hombre,28,"La cafetería está bien, cumple su función.",neutro,
+visita,mujer,78,Me encanta la cafetería de la universidad; la atención y el ambiente son muy agradables.,positivo,
+maestro,mujer,51,"Como maestra, la cafetería me encanta, buen ambiente y servicio muy amable.",positivo,
+alumno,mujer,20,Los precios en la cafetería están carísimos; no vale la porción para lo que es.,negativo,precio
+trabajador,hombre,40,El precio está por las nubes; como trabajador necesito que la cafetería sea más accesible sin sacrificar calidad.,negativo,precio
+maestro,mujer,40,"Sabor decepcionante; como profesora de 40 años, esperaba platillos más sabrosos para mis largas jornadas.",negativo,sabor
+visita,mujer,33,"Como mujer visitante, me encantó el ambiente y la atención; regresaré pronto.",positivo,
+alumno,mujer,28,"Como alumna de 28 años, el precio en la cafetería de la Universidad Panamericana no se justifica.",negativo,precio
+alumno,mujer,21,"El sabor de la comida de la cafetería está mal, y la atención podría mejorar.",negativo,sabor
+visita,hombre,25,Mi visita como visitante fue neutral.,neutro,
+padre,hombre,69,"Como padre de familia, el sabor de los platillos en la cafetería de la Universidad Panamericana no me dejó satisfecho.",negativo,sabor
+madre,mujer,44,"Sabor deficiente en los platillos; como madre, espero algo más sabroso para mis días en el campus.",negativo,sabor
+padre,hombre,63,"Como padre de familia, la cafetería de la Universidad Panamericana me deja muy contento.",positivo,
+alumno,hombre,30,"El sabor de la comida de la cafetería siempre deja mucho que desear, especialmente entre mis clases.",negativo,sabor
+padre,hombre,66,"Como padre, me parece que la cafetería mantiene un excelente ambiente para todos.",positivo,
+padre,hombre,78,"Como padre de 78 años, el sabor de las comidas está muy flojo y no me deja satisfecho.",negativo,sabor
+padre,hombre,50,"Como papá, la cafetería resulta práctica para visitas.",neutro,
+trabajador,hombre,46,"Como trabajador de la Panamericana, la cafetería cumple, sin más.",neutro,
+trabajador,hombre,29,"Como trabajador, las instalaciones de la cafetería están en mal estado y eso arruina mis pausas.",negativo,instalaciones
+visita,hombre,63,La atención y el ambiente estuvieron muy bien; regresaré.,positivo,
+alumno,hombre,28,"La cafetería es agradable y eficiente, ideal para estudiar entre clases.",positivo,
+visita,hombre,67,"Como visitante mayor, las instalaciones están descuidadas y no invitan a quedarse.",negativo,instalaciones
+maestro,mujer,30,"Como profesora, la variedad es insuficiente y complica planear mis días entre clases.",negativo,variedad
+trabajador,hombre,30,"Como trabajador de la Universidad Panamericana, la cafetería siempre me atiende con buena onda.",positivo,
+maestro,mujer,52,"Como maestra de la Universidad Panamericana, el precio de la cafetería está desorbitado para lo que ofrecen.",negativo,precio
+alumno,mujer,30,El precio está muy alto para la porción; el sabor es regular y la atención podría mejorar.,negativo,precio
+trabajador,hombre,37,El sabor de las opciones en la cafetería como trabajador me dejó mucho que desear; la atención y la limpieza también podrían mejorar.,negativo,sabor
+alumno,mujer,25,"La comida siempre me alegra la semana, buen sabor y servicio amable.",positivo,
+maestro,mujer,48,"Como profesora, la cafetería funciona bien para mis horarios.",neutro,
+alumno,mujer,20,"Como alumna, el precio está caro para lo que ofrecen, y la atención deja mucho que desear.",negativo,precio
+alumno,hombre,25,"La comida está sabrosa y el servicio es excelente, me encanta venir a la cafetería.",positivo,
+madre,mujer,48,"Como madre de familia, siento que los precios están por las nubes y la comida no justifica el gasto.",negativo,precio
+madre,mujer,42,"Como madre universitaria, el precio está muy alto para lo que ofrecen.",negativo,precio
+padre,hombre,67,"Como padre, la cafetería cumple lo necesario.",neutro,
+maestro,hombre,47,La cafetería funciona de manera razonable en la rutina diaria.,neutro,
+alumno,mujer,19,"La cafetería está bien, cumple su función diaria.",neutro,
+maestro,hombre,35,"Como profesor, la cafetería funciona, sin mayores observaciones.",neutro,
+alumno,mujer,21,"Como alumna, el sabor de la comida está mal y la experiencia en la cafetería deja mucho que desear.",negativo,sabor
+trabajador,hombre,32,"Variedad insuficiente en la cafetería; como trabajador, la comida siempre se repite.",negativo,variedad
+alumno,hombre,19,Ambiente deteriorado por las instalaciones.,negativo,instalaciones
+alumno,mujer,27,"Como alumna de 27 años, el sabor de la comida está pésimo y la atención es lenta.",negativo,sabor
+padre,hombre,76,"El precio está muy alto para la porción; además, la atención deja mucho que desear.",negativo,precio
+alumno,mujer,28,La comida está deliciosa y el servicio es muy amable en la cafetería de la Panamericana.,positivo,
+maestro,hombre,33,"Como profesor, la cafetería es mi oasis entre clases.",positivo,
+alumno,mujer,23,Las instalaciones de la cafetería están descuidadas y eso afecta mi experiencia.,negativo,instalaciones
+alumno,hombre,22,"Las instalaciones están en mal estado, el mobiliario incómodo y el ambiente no invita a estudiar.",negativo,instalaciones
+alumno,hombre,23,"La cafetería está chida, buena comida y atención rápida.",positivo,
+madre,mujer,59,Me encanta la cafetería; buen ambiente y atención cercana para todos.,positivo,
+maestro,hombre,38,"Como profesor, la cafetería siempre me levanta el ánimo entre clases.",positivo,
+trabajador,mujer,31,"Como trabajadora de la universidad, valoro la vibra de la cafetería y el servicio siempre atento.",positivo,
+padre,hombre,45,"Como padre de familia, la cafetería de la Universidad Panamericana me encanta; buen servicio y ambiente.",positivo,
+padre,hombre,55,"Como papá, valoro el ambiente familiar y el buen servicio.",positivo,
+alumno,mujer,29,"Como alumna de 29 años, la variedad de opciones en la cafetería está muy limitada.",negativo,variedad
+madre,mujer,41,"La cafetería cuida a nuestra familia, y la comida siempre me deja satisfecha.",positivo,
+alumno,hombre,19,"La cafetería está bien, sin sorpresas.",neutro,
+maestro,hombre,36,El precio está muy alto para lo que ofrecen; como profesor esperaba algo más razonable.,negativo,precio
+alumno,hombre,17,"La cafetería está chida, la comida siempre me deja contento.",positivo,
+madre,mujer,67,Me agrada mucho la cafetería; se siente como casa y el personal siempre atento.,positivo,
+maestro,mujer,44,"Como profesora de 44 años, la cafetería mantiene un ambiente agradable y buena atención.",positivo,
+maestro,hombre,43,"Como profesor, valoro la buena atención y el ambiente.",positivo,
+trabajador,hombre,48,"Como trabajador, agradezco la atención y la organización.",neutro,
+maestro,hombre,56,"La variedad en la cafetería es mínima y limita mucho mis opciones entre mis clases, como profesor con horarios ajustados.",negativo,variedad
+maestro,hombre,34,"Como profesor en la Panamericana, la cafetería me resulta conveniente y el personal muy amable.",positivo,
+maestro,mujer,57,"Como maestra, el sabor de los platillos en la cafetería de la Universidad Panamericana me deja insatisfecha y no invita a volver.",negativo,sabor
+alumno,mujer,24,"Como alumna, la cafetería está increíble; atienden rápido y las opciones son variadas.",positivo,
+padre,hombre,71,"Como padre, la cafetería siempre me atiende con amabilidad.",positivo,
+padre,hombre,45,"Como padre, tomo nota de la cafetería.",neutro,
+trabajador,hombre,42,"Como trabajador de 42 años, las instalaciones de la cafetería dejan mucho que desear y afectan mi día a día.",negativo,instalaciones
+alumno,hombre,18,"La cafetería está chida, buen ambiente para estudiar entre clases y el servicio siempre agradable.",positivo,
+madre,mujer,45,"Precio elevado, como madre me cuesta pagar la cafetería; la atención y la variedad podrían mejorar.",negativo,precio
+padre,hombre,68,"Como padre de un alumno, el sabor está mal y ya no voy a comer ahí.",negativo,sabor
+madre,mujer,68,"Como mamá, valoro la atención amable y la comida de la cafetería.",positivo,
+alumno,mujer,26,Las instalaciones de la cafetería de la Universidad Panamericana están descuidadas y afectan mi experiencia diaria.,negativo,instalaciones
+maestro,hombre,60,El sabor de los platillos no me convence; como maestro de 60 años no encuentro opciones que me satisfagan.,negativo,sabor
+padre,hombre,54,"Sabor deficiente, como padre, me preocupa que la cafetería no ofrezca platillos a la altura.",negativo,sabor
+alumno,mujer,29,"La cafetería de la Panamericana funciona bien, sin sobresaltos.",neutro,
+maestro,mujer,51,"Variedad insuficiente en la cafetería de la Panamericana; como maestra de 51 años, me complica planear mis desayunos entre clases.",negativo,variedad
+madre,mujer,67,"Las instalaciones están muy deterioradas, y como madre me preocupa la experiencia en la cafetería.",negativo,instalaciones
+alumno,hombre,20,"Como alumno, los precios están carísimos; no puedo seguir pagando tanto por algo tan básico.",negativo,precio
+alumno,mujer,17,,positivo,
+alumno,mujer,20,"La cafetería cumple su función, sin grandes novedades.",neutro,
+alumno,hombre,19,La variedad de opciones en la cafetería es muy limitada y me deja sin alternativas.,negativo,variedad
+visita,mujer,28,"Como visitante, la cafetería me dejó encantada.",positivo,
+alumno,mujer,25,"Como alumna, el precio está muy alto para lo que ofrecen, y eso me desanima.",negativo,precio
+alumno,mujer,17,Me encanta la variedad y el ambiente cómodo de la cafetería.,positivo,
+maestro,hombre,44,"Como profesor, la cafetería funciona bien, sin contratiempos.",neutro,
+visita,hombre,80,La cafetería me dejó muy buena impresión; trato cordial y ambiente cómodo.,positivo,
+maestro,mujer,59,"Como maestra de 59 años, el sabor de los platillos deja mucho que desear.",negativo,sabor
+alumno,hombre,18,"La cafetería está muy bien, buen ambiente y la comida me late.",positivo,
+alumno,mujer,29,"Como alumna de 29 años, me encanta la vibra de la cafetería y la rapidez del servicio.",positivo,
+madre,mujer,67,"Como madre, me encanta la cafetería: ambiente agradable y atención de primera.",positivo,
+trabajador,mujer,37,"Como trabajadora, me encanta atender a la comunidad universitaria.",positivo,
+madre,mujer,65,"Como madre de un alumno, la variedad de opciones en la cafetería de la universidad deja mucho que desear.",negativo,variedad
+padre,hombre,59,"El precio es excesivo para la calidad que ofrecen, como padre de familia de 59 años me preocupa.",negativo,precio
+alumno,mujer,26,La cafetería de la Universidad Panamericana siempre me levanta el día.,positivo,
+madre,mujer,51,"Como mamá, la cafetería de la Universidad Panamericana siempre cuida el sabor y el servicio.",positivo,
+trabajador,hombre,43,El sabor de la comida de la cafetería de la Universidad Panamericana sigue siendo deficiente; la atención y la limpieza no me convencen.,negativo,sabor
+maestro,mujer,42,"La variedad en la cafetería es poca para un campus tan grande, y como profesora, esto complica mis horarios.",negativo,variedad
+madre,mujer,56,"Como madre, los precios están carísimos y ya no alcanza para venir con mi hijo a la cafetería.",negativo,precio
+padre,hombre,55,"Como padre, el precio de la comida está por las nubes para lo que ofrecen.",negativo,precio
+madre,mujer,74,"Sabor deficiente en la cafetería de la Universidad Panamericana; como mamá de 74 años, ya no me agrada.",negativo,sabor
+madre,mujer,71,"Como madre de 71 años, siento que los precios de la cafetería están subiendo demasiado y no valen lo que ofrecen.",negativo,precio
+alumno,mujer,24,"El sabor de la comida de la cafetería de la Universidad Panamericana es decepcionante; como alumna de 24 años, espero más.",negativo,sabor
+padre,hombre,69,"Como papá de la Universidad Panamericana, la cafetería mantiene un servicio excelente.",positivo,
+alumno,mujer,18,"El precio está muy alto para lo que ofrecen; además, el sabor podría mejorar.",negativo,precio
+maestro,hombre,45,"Como profesor, la cafetería me da energía para las jornadas largas.",positivo,
+alumno,hombre,20,"Como alumno, el sabor de la comida está pésimo y la atención deja mucho que desear.",negativo,sabor
+visita,hombre,30,"Variedad de opciones muy limitada; como visitante, esperaba más diversidad y el sabor podría mejorar.",negativo,variedad
+maestro,mujer,55,"Como profesora de la Universidad Panamericana, el sabor de la cafetería ha dejado mucho que desear.",negativo,sabor
+alumno,hombre,30,"Como alumno de 30 años, el precio en la cafetería está demasiado alto y apenas me alcanza para comer.",negativo,precio
+maestro,mujer,33,"Como profesora, la cafetería siempre atiende bien y el ambiente es muy agradable para mis descansos.",positivo,
+maestro,mujer,57,"Como profesora, la cafetería cumple su función, sin grandes sorpresas.",neutro,
+alumno,mujer,24,Las instalaciones están deterioradas y resultan incómodas para estudiar.,negativo,instalaciones
+alumno,hombre,23,"Variedad deficiente, las opciones son pocas y repetitivas, y el sabor tampoco impresiona.",negativo,variedad
+trabajador,mujer,35,"Como trabajadora de la Universidad Panamericana, valoro la amabilidad y rapidez del servicio de la cafetería.",positivo,
+madre,mujer,64,"Como madre, la cafetería de la universidad me encanta; el ambiente es muy agradable.",positivo,
+trabajador,mujer,43,"Como empleada, la cafetería funciona bien.",neutro,
+padre,hombre,76,Está bien para venir a tomar un café y conversar.,neutro,
+trabajador,mujer,39,Variedad insuficiente en la cafetería; el menú no cubre mis horarios.,negativo,variedad
+alumno,mujer,20,"Como alumna, la variedad en la cafetería es muy limitada y eso arruina mis días de clase.",negativo,variedad
+visita,hombre,46,La cafetería funciona para una visita.,neutro,
+maestro,hombre,47,"Como profesor, la cafetería está excelente; siempre encuentro buenas opciones entre clases.",positivo,
+alumno,hombre,18,El sabor de la comida en la cafetería de la Universidad Panamericana está muy malo; además el precio y la atención dejan mucho que desear.,negativo,sabor
+alumno,mujer,20,"Como alumna, el precio está muy alto para lo que ofrecen.",negativo,precio
+alumno,hombre,28,La comida está deliciosa y el servicio es muy ágil.,positivo,
+alumno,mujer,25,"La cafetería funciona, sin mayores novedades por ahora.",neutro,
+madre,mujer,62,"Como mamá de un alumno de la Universidad Panamericana, siento que el precio en la cafetería está por las nubes y la comida no compensa.",negativo,precio
+trabajador,mujer,47,"El precio está muy alto para lo que ofrecen, y como trabajadora de la Universidad Panamericana me afecta diariamente.",negativo,precio
+visita,mujer,21,"El sabor de la comida dejó mucho que desear, como visitante no quedé satisfecha.",negativo,sabor
+alumno,hombre,26,"Me encanta la cafetería de la uni, siempre buena vibra.",positivo,
+alumno,hombre,29,"Como alumno de veintinueve, la cafetería está bien.",neutro,
+alumno,mujer,28,"Como alumna de 28 años, me encanta la cafetería, buen ambiente para estudiar.",positivo,
+alumno,hombre,20,"Como alumno de 20 años, el sabor de la comida me decepciona y ya no me convence.",negativo,sabor
+alumno,mujer,19,"El precio está muy alto para la porción, la neta no compensa.",negativo,precio
+madre,mujer,53,"Como madre en la Universidad Panamericana, me encanta la atención y el ambiente de la cafetería; siempre vuelvo.",positivo,
+alumno,hombre,18,"Me encanta la calidad y el ambiente de la cafetería, como alumno, siempre vuelvo contento.",positivo,
+trabajador,hombre,46,"Como trabajador, la cafetería funciona bien.",neutro,
+madre,mujer,75,"Como mamá de 75 años, el sabor de la comida de la cafetería ya no me sabe a nada.",negativo,sabor
+maestro,mujer,33,"Como profesora de 33 años, valoro la calidad y el ambiente de la cafetería.",positivo,
+padre,hombre,50,Variedad limitada en la cafetería; como padre de familia me preocupa que no haya opciones para todos.,negativo,variedad
+trabajador,hombre,41,"Como trabajador de 41 años, el sabor de la comida en la cafetería deja mucho que desear y, además, el precio está alto.",negativo,sabor
+trabajador,mujer,28,"Como trabajadora, la cafetería se mantiene estable y ordenada.",neutro,
+alumno,mujer,30,"Como alumna, la cafetería está bien, sin grandes observaciones.",neutro,
+alumno,mujer,26,"Como alumna de 26 años, el sabor de la comida en la cafetería deja mucho que desear y podría mejorar la atención.",negativo,sabor
+alumno,hombre,27,"Entre clases, la cafetería me salva; buen ambiente y sabor.",positivo,
+alumno,mujer,21,"Como alumna de la Universidad Panamericana, el precio está demasiado alto para lo que ofrecen.",negativo,precio
+alumno,hombre,24,"El precio está elevado para un alumno como yo, y con mi presupuesto apenas alcanza.",negativo,precio
+madre,mujer,54,"Como madre, la variedad de opciones en la cafetería de la Universidad Panamericana es limitada y decepcionante.",negativo,variedad
+madre,mujer,46,"Como mamá, todo correcto, solo observo el desempeño general.",neutro,
+alumno,hombre,29,La cafetería me facilita la vida entre clases; buena atención.,positivo,
+trabajador,hombre,48,"La cafetería funciona, sin más comentarios.",neutro,
+alumno,hombre,28,"Me encanta la cafetería, es perfecta para estudiar entre clases.",positivo,
+alumno,mujer,24,"El precio es caro para la calidad, como alumna de 24 años, y el sabor podría mejorar.",negativo,precio
+madre,mujer,50,"El precio está caro para lo que ofrecen; como mamá consciente de mi presupuesto, la atención es lenta y el ambiente es ruidoso.",negativo,precio
+trabajador,hombre,39,"Los precios están por encima de lo razonable; como trabajador, siento que la relación costo-valor no compensa.",negativo,precio
+visita,hombre,40,"Como visitante, la cafetería está muy agradable y el trato fue excelente.",positivo,
+madre,mujer,71,"A mis 71 años, como mamá, el precio está demasiado alto para la comida de la universidad; siento que la cafetería ya no es accesible para familias.",negativo,precio
+madre,mujer,61,"Variedad insuficiente en la cafetería; como mamá, siento que faltan opciones para todos.",negativo,variedad
+madre,mujer,65,"El sabor de la comida me decepciona; como madre de 65 años, espero más cuidado.",negativo,sabor
+madre,mujer,79,"El sabor ya no me agrada; como madre de 79 años, esperaba comidas más sabrosas.",negativo,sabor
+alumno,hombre,21,"El precio está demasiado alto para lo que ofrecen, como alumno de 21 años; la atención y la limpieza dejan mucho que desear.",negativo,precio
+padre,hombre,63,"Como padre, la cafetería siempre me deja conforme.",positivo,
+trabajador,mujer,43,"El sabor de la comida en la cafetería no está a la altura, espero que lo mejoren pronto.",negativo,sabor
+maestro,hombre,46,"Como profesor, la cafetería de la Universidad Panamericana mantiene un servicio eficiente y agradable.",positivo,
+alumno,mujer,20,"Está bien; no destaca, pero funciona para estudiar.",neutro,
+alumno,hombre,29,Me encanta el ambiente y las opciones que ofrece la cafetería.,positivo,
+alumno,mujer,17,El sabor de la comida es mi mayor queja y la neta deja mucho que desear.,negativo,sabor
+maestro,hombre,59,El sabor de los platillos de la cafetería de la Universidad Panamericana es decepcionante y me preocupa su consistencia.,negativo,sabor
+alumno,hombre,25,"La cafetería está excelente, buen servicio y ambiente.",positivo,
+padre,hombre,42,"Como padre de 42 años, la cafetería mantiene un ambiente agradable y buen servicio.",positivo,
+alumno,hombre,25,"La neta, las instalaciones están pésimas; el mobiliario se siente viejo.",negativo,instalaciones
+madre,mujer,54,"Como mamá, disfruto venir y ver que todo sabe delicioso.",positivo,
+maestro,mujer,44,Me gusta cómo la cafetería acompaña mis jornadas entre clases.,positivo,
+alumno,mujer,19,"Me encanta la cafetería, siempre hay opciones y el ambiente es ideal.",positivo,
+alumno,mujer,27,"La cafetería me encanta, buen servicio y ambiente en la Universidad Panamericana.",positivo,
+madre,mujer,68,"La cafetería está regular, sin nada destacable.",neutro,
+maestro,mujer,30,"Las instalaciones de la cafetería están pésimas, y como maestra de la Universidad Panamericana se nota en mis clases y en mi día a día.",negativo,instalaciones
+maestro,mujer,53,"Como profesora de 53 años, la variedad en la cafetería es insuficiente y me deja frustrada.",negativo,variedad
+alumno,hombre,27,"Como alumno, la cafetería funciona bien, nada que destacar.",neutro,
+maestro,hombre,48,,negativo,variedad
+alumno,mujer,19,Sabor deficiente de la comida; la cafetería últimamente está muy cara.,negativo,sabor
+alumno,hombre,24,"La variedad de opciones es muy limitada; además, la atención podría ser más rápida.",negativo,variedad
+padre,hombre,58,"Como papá, la cafetería está bien, solo cosas podrían mejorar.",neutro,
+maestro,hombre,39,"Sabor deficiente en la cafetería, como profesor de 39 años, me deja con ganas de buscar otra opción.",negativo,sabor
+padre,hombre,70,"Como papá de familia, con mis 70 años la variedad en la cafetería está muy limitada.",negativo,variedad
+trabajador,mujer,28,"Como trabajadora de la cafetería, el sabor de la comida sigue siendo deficiente.",negativo,sabor
+alumno,hombre,21,"La cafetería está muy bien, ambiente agradable y servicio rápido.",positivo,
+visita,mujer,33,"Instalaciones en mal estado; como visitante, me dejó con mal sabor la limpieza.",negativo,instalaciones
+alumno,mujer,23,"Como alumna, me encanta el ambiente y la variedad de la cafetería.",positivo,
+maestro,hombre,44,"Como profe, la cafetería siempre me atiende bien y hay buen ambiente.",positivo,
+visita,mujer,77,"Como mujer visitante de 77 años, el sabor de la comida me decepcionó; espero que mejoren la atención.",negativo,sabor
+madre,mujer,57,"Como madre de un alumno, el sabor es decepcionante.",negativo,sabor
+maestro,mujer,39,"Las instalaciones de la cafetería están pésimas; como profesora, necesito que las arreglen.",negativo,instalaciones
+maestro,mujer,47,"Como profesora, estoy muy satisfecha con la atención y la variedad.",positivo,
+maestro,mujer,48,"Como profesora, el sabor de la comida de la cafetería deja mucho que desear.",negativo,sabor
+alumno,mujer,26,La variedad es muy limitada y como alumna me deja sin opciones.,negativo,variedad
+alumno,mujer,25,La cafetería siempre me atiende bien y la comida está riquísima.,positivo,
+madre,mujer,67,"Como mamá, la cafetería siempre me deja satisfecha y tranquila.",positivo,
+alumno,mujer,21,"La cafetería está bien, nada que añadir.",neutro,
+maestro,hombre,38,La cafetería de la Universidad Panamericana me da energía para las clases; buen servicio.,positivo,
+visita,hombre,53,"Como visitante de la Universidad Panamericana, la cafetería tiene precios demasiado altos para lo que ofrecen.",negativo,precio
+alumno,hombre,25,"Las instalaciones están pésimas, y eso arruina cada visita al campus; además, el ambiente y la limpieza dejan mucho que desear.",negativo,instalaciones
+alumno,mujer,17,"La cafetería está de lujo, me encanta ir entre clases.",positivo,
+maestro,hombre,48,"Como profesor, la cafetería está bien para mis horarios.",neutro,
+alumno,mujer,20,"Como alumna de 20 años, me encanta la vibra de la cafetería; siempre me atienden rápido.",positivo,
+alumno,mujer,19,El sabor de la comida en la cafetería está decepcionante y no me invita a volver.,negativo,sabor
+padre,hombre,69,La variedad de alimentos es limitada y eso me preocupa como padre.,negativo,variedad
+alumno,hombre,22,La cafetería funciona bien y el servicio es estable.,neutro,
+trabajador,mujer,48,"El precio está muy alto para una cafetería universitaria; como trabajadora, me cuesta seguir yendo.",negativo,precio
+alumno,hombre,26,"Como alumno, el precio está muy alto para lo que dan y la atención deja mucho que desear.",negativo,precio
+alumno,hombre,24,"La cafetería funciona, ofrece lo básico y es funcional.",neutro,
+maestro,hombre,52,"Como profe, el precio está muy alto para la calidad que ofrecen.",negativo,precio
+alumno,mujer,18,"Como alumna, las instalaciones de la cafetería están en mal estado y eso arruina la experiencia.",negativo,instalaciones
+maestro,hombre,43,"Como profesor, la cafetería me funciona: buen servicio, ambiente agradable y opciones rápidas.",positivo,
+alumno,hombre,18,"La neta, la comida está buena y el ambiente siempre ayuda para estudiar.",positivo,
+trabajador,mujer,35,"Como trabajadora, la atención es excelente y el ambiente es muy agradable.",positivo,
+maestro,mujer,50,"Como profesora de 50 años, el sabor de la cafetería me deja insatisfecha y la experiencia general no acompaña.",negativo,sabor
+madre,mujer,76,"Como madre de 76 años, el sabor de la comida de la cafetería me dejó muy decepcionada.",negativo,sabor
+padre,hombre,77,Aprecio mucho la atención cordial y el ambiente tranquilo de la cafetería.,positivo,
+trabajador,hombre,32,"Como empleado de la cafetería, todo está en orden.",neutro,
+alumno,mujer,24,"La cafetería de la Universidad Panamericana siempre me alegra el día, buen sabor y ambiente.",positivo,
+padre,hombre,41,"Sabor deficiente; como padre, esperaba que ajustaran la sazón.",negativo,sabor
+padre,hombre,79,"Como padre de 79 años, la variedad es muy limitada; espero más opciones para probar.",negativo,variedad
+madre,mujer,42,"Como mamá ocupada, la cafetería siempre me salva la semana.",positivo,
+madre,mujer,45,"Como madre, la cafetería está normal, sin comentarios.",neutro,
+maestro,mujer,38,"La variedad dejó mucho que desear; como profesora, esperaba opciones más interesantes y consistentes en la cafetería.",negativo,variedad
+padre,hombre,68,"Me agrada mucho la cafetería, buena atención y un ambiente agradable.",positivo,
+madre,mujer,70,"El sabor de la comida en la cafetería es deficiente y, como madre de 70 años, me deja pensando en buscar alternativas.",negativo,sabor
+trabajador,hombre,47,"Como trabajador, agradezco la atención y el ambiente agradable de la cafetería.",positivo,
+maestro,hombre,52,La experiencia en la cafetería me parece adecuada.,neutro,
+alumno,hombre,25,"La cafetería funciona, sin más.",neutro,
+madre,mujer,75,"Me encanta la comida y el ambiente, gracias por el esfuerzo diario.",positivo,
+visita,hombre,18,"Me encantó la cafetería de la Universidad Panamericana, buen ambiente.",positivo,
+padre,hombre,65,"Como papá de 65, el sabor de la comida no me convence.",negativo,sabor
+trabajador,hombre,34,La cafetería me da un buen servicio y energía para seguir el día.,positivo,
+madre,mujer,64,Me encanta la comida y la atención; es excelente para mis días en la Universidad Panamericana.,positivo,
+madre,mujer,70,"Como madre, la cafetería está bien, sin nada que comentar.",neutro,
+visita,hombre,16,"Variedad limitada en la cafetería; como visitante joven, no encuentro opciones que me gusten.",negativo,variedad
+alumno,mujer,22,El sabor de la comida en la cafetería está mal y la variedad del menú es repetitiva.,negativo,sabor
+trabajador,hombre,39,"Como trabajador, la cafetería me atiende rápido y con buena onda.",positivo,
+alumno,hombre,30,"La cafetería está excelente, buena atención y sabores que me mantienen satisfecho.",positivo,
+maestro,mujer,50,La variedad de opciones es insuficiente para una maestra ocupada como yo; la atención deja mucho que desear.,negativo,variedad
+padre,hombre,47,"Como padre, la experiencia es neutral y razonable.",neutro,
+maestro,mujer,38,"La variedad es deficiente y me frustra, como maestra.",negativo,variedad
+alumno,hombre,18,"La cafetería está increíble, siempre servicio rápido y buen rollo.",positivo,
+padre,hombre,79,"La cafetería de la Universidad Panamericana cuida los detalles, a mi edad me siento como en casa.",positivo,
+maestro,mujer,44,"Como profesora, me encanta la cafetería y su servicio.",positivo,
+alumno,mujer,30,"Como alumna, la cafetería del campus es funcional.",neutro,
+alumno,hombre,22,El precio está muy alto para lo que ofrecen.,negativo,precio
+alumno,mujer,28,"La cafetería cumple, sin grandes observaciones por el momento.",neutro,
+trabajador,mujer,38,"La cafetería funciona bien, pero podría mejorar en algunos aspectos.",neutro,
+alumno,mujer,17,"La variedad de opciones está muy limitada; como alumna, me deja sin alternativas para comer.",negativo,variedad
+trabajador,hombre,29,Sabor deficiente y repetitivo; como trabajador necesito algo más sabroso para la jornada.,negativo,sabor
+maestro,mujer,36,La cafetería cumple con lo esperado para mis clases.,neutro,
+alumno,mujer,28,Me encanta la variedad y la buena atención del personal.,positivo,
+alumno,hombre,23,La cafetería de la Universidad Panamericana siempre tiene buen ambiente y sabor.,positivo,
+alumno,hombre,22,Está bien para estudiar entre clases.,neutro,
+visita,mujer,24,"Como visitante, la cafetería está muy bien; el servicio fue excelente y el ambiente agradable.",positivo,
+alumno,mujer,17,El precio está muy alto para lo que ofrecen; las porciones son pequeñas y no vale la pena en la cafetería de la Universidad Panamericana.,negativo,precio
+alumno,mujer,29,La variedad de opciones de la cafetería está muy limitada y afecta mi rutina como alumna.,negativo,variedad
+alumno,mujer,30,"La cafetería de la Universidad Panamericana está increíble, siempre me atienden bien.",positivo,
+padre,hombre,74,La cafetería universitaria funciona bien; ambiente cómodo.,neutro,
+maestro,hombre,57,Los precios están muy altos para la calidad que ofrecen en la cafetería.,negativo,precio
+alumno,hombre,28,El precio está muy caro y la atención deja mucho que desear.,negativo,precio
+maestro,mujer,40,La cafetería está muy bien; buen ambiente y opciones variadas para estudiar entre clases.,positivo,
+trabajador,mujer,25,La cafetería me recarga para seguir con mi jornada.,positivo,
+padre,hombre,62,"El sabor de la comida de la cafetería es decepcionante; como padre, quiero lo mejor para mi hijo.",negativo,sabor
+alumno,mujer,28,La cafetería está increíble; buen ambiente y servicio atento.,positivo,
+maestro,mujer,41,"Como maestra, la cafetería de la Universidad Panamericana mantiene un ambiente agradable y atención amable.",positivo,
+alumno,hombre,29,"La variedad de platillos es poca; como alumno, necesito más opciones en el menú diario.",negativo,variedad
+padre,hombre,42,"Como padre de 42 años, la cafetería funciona sin sorpresas.",neutro,
+maestro,mujer,60,"Entre clases y reuniones, la cafetería cumple su función.",neutro,
+maestro,mujer,34,"Instalaciones de la cafetería mal mantenidas; como profesora, esperaba un espacio más cómodo para mis reuniones entre clases.",negativo,instalaciones
+madre,mujer,61,"Como mamá de 61 años, los precios están por las nubes y no veo valor en la comida de la cafetería.",negativo,precio
+alumno,mujer,21,"Me encanta la cafetería, siempre encuentro buen ambiente y buena atención.",positivo,
+alumno,mujer,26,"La cafetería va bien, todo en su ritmo diario.",neutro,
+padre,hombre,78,"Como papá de 78 años, el sabor de la comida no me agrada y me deja decepcionado.",negativo,sabor
+maestro,mujer,39,"El precio está demasiado alto para lo que ofrecen en la cafetería; como maestra, esperaba mejor relación precio-calidad.",negativo,precio
+maestro,hombre,31,"Como profesor, la cafetería sirve para momentos entre clases.",neutro,
+alumno,hombre,22,,negativo,variedad
+trabajador,hombre,33,"Como trabajador de la Universidad Panamericana, el precio de la cafetería está demasiado alto.",negativo,precio
+maestro,mujer,53,"Como maestra de 53 años, el precio es elevado y la atención deja mucho que desear.",negativo,precio
+trabajador,mujer,26,"El sabor de los platillos en la cafetería está mal; como trabajadora, esperaba algo más sabroso.",negativo,sabor
+madre,mujer,63,Me encanta la atención amable y el ambiente cómodo de la cafetería.,positivo,
+alumno,mujer,28,El precio está caro y como alumna siento que no refleja el valor.,negativo,precio
+maestro,hombre,31,"La cafetería siempre tiene buen ambiente y trato cordial; como profesor, me encanta.",positivo,
+alumno,hombre,21,"El sabor de la comida de la cafetería no me convence, afecta mis días de estudio.",negativo,sabor
+alumno,hombre,27,"Como alumno, los precios están por las nubes y la porción no compensa.",negativo,precio
+alumno,hombre,22,"Como alumno, el sabor de la comida está mal; además, la atención deja mucho que desear y el precio es elevado.",negativo,sabor
+trabajador,mujer,30,"Como empleada de la cafetería, el sabor de los platillos ha sido deficiente últimamente, y la atención al cliente tampoco acompaña.",negativo,sabor
+maestro,mujer,41,"Como profesora, el sabor de los platillos deja mucho que desear; esperaba algo más sabroso.",negativo,sabor
+madre,mujer,54,"Como madre de familia de 54 años, la variedad de opciones en la cafetería es escasa y no cubre mis necesidades diarias.",negativo,variedad
+padre,hombre,51,"Como padre, la cafetería está bien, pero podría mejorar.",neutro,
+trabajador,hombre,32,"Como trabajador, el sabor de la comida de la cafetería deja mucho que desear.",negativo,sabor
+alumno,hombre,28,Los precios están por las nubes y no justifican la calidad; es demasiado caro para lo que ofrece.,negativo,precio
+padre,hombre,70,La atención y el ambiente de la cafetería me hacen sentir como en casa.,positivo,
+maestro,mujer,56,"Como maestra, valoro el sabor y la atención constante.",positivo,
+maestro,hombre,35,"Como profesor, la cafetería está chida; buen ambiente y atención muy amable.",positivo,
+maestro,hombre,34,"Como profesor, la cafetería está muy bien para estudiar entre clases, buena atención y ambiente.",positivo,
+alumno,hombre,21,La cafetería de la Universidad Panamericana está chida y el servicio siempre me late.,positivo,
+alumno,hombre,25,"Me encanta la onda de la cafetería, siempre buen rollo y buena comida.",positivo,
+alumno,hombre,17,"La cafetería está genial, me salva entre clases.",positivo,
+padre,hombre,52,"Como papá de 52 años, valoro la buena comida y el ambiente de la cafetería.",positivo,
+padre,hombre,74,"Como padre de 74 años, el precio está muy alto para lo que ofrecen.",negativo,precio
+padre,hombre,75,"El sabor de la comida en la cafetería no me convence, se nota poca sazón.",negativo,sabor
+maestro,mujer,58,"Como maestra, valoro la amabilidad del personal y el ambiente agradable de la cafetería.",positivo,
+alumno,mujer,20,"El sabor de la comida está pésimo, y la atención deja mucho que desear.",negativo,sabor
+alumno,mujer,17,"Variedad limitada en la cafetería; la atención es lenta y el sabor podría mejorar, realmente esperaba más opciones.",negativo,variedad
+madre,mujer,48,"Como mamá, valoro la buena comida y el trato amable de la cafetería.",positivo,
+alumno,hombre,28,"Como alumno de 28 años, la variedad de platillos es muy limitada y repetitiva; la atención suele ser lenta.",negativo,variedad
+alumno,hombre,28,Las instalaciones de la cafetería están en mal estado.,negativo,instalaciones
+maestro,mujer,54,"Como profesora de 54 años, el sabor de los platillos no está a la altura.",negativo,sabor
+padre,hombre,76,"A mi edad, el sabor de la comida de la cafetería deja muchísimo que desear.",negativo,sabor
+visita,mujer,68,"Como visitante, la cafetería me dejó muy satisfecha; volveré.",positivo,
+alumno,mujer,24,"Como alumna de 24 años, el precio es muy alto para lo que ofrecen, y la variedad no compensa.",negativo,precio
+madre,mujer,56,"Como mamá, valoro mucho la cafetería; buen sabor y atención.",positivo,
+trabajador,hombre,40,"Como trabajador, la cafetería tiene buen ambiente y servicio amable.",positivo,
+alumno,mujer,27,La cafetería de la uni me mantiene pilas para estudiar; buen ambiente.,positivo,
+alumno,mujer,30,Me encanta la variedad y el ambiente; el servicio siempre es amable.,positivo,
+madre,mujer,62,La cafetería está bien para el día a día.,neutro,
+madre,mujer,58,"Como madre de 58 años, las instalaciones de la cafetería están deterioradas y afectan la experiencia.",negativo,instalaciones
+alumno,hombre,17,"La cafetería está muy chida, buen ambiente y servicio rápido.",positivo,
+alumno,hombre,22,Las instalaciones están mal mantenidas y me rompen el ritmo entre clases.,negativo,instalaciones
+alumno,mujer,27,La variedad en la cafetería de la Universidad Panamericana es muy limitada y eso me desanima.,negativo,variedad
+alumno,mujer,19,"La cafetería está bien, sigo yendo entre clases.",neutro,
+alumno,hombre,19,"Como alumno, la cafetería funciona bien, sin nada que criticar.",neutro,
+maestro,hombre,34,Las instalaciones están en mal estado y eso me preocupa como profesor.,negativo,instalaciones
+alumno,mujer,24,La variedad de opciones es muy limitada y eso me afecta cada vez que voy a la cafetería.,negativo,variedad
+trabajador,hombre,50,"Como trabajador de la cafetería de la Universidad Panamericana, el sabor de la comida ya no sabe bien y me deja decepcionado.",negativo,sabor
+alumno,mujer,30,"Como alumna, la cafetería cumple, horario estable y servicio razonable.",neutro,
+maestro,hombre,40,"Como maestro, el precio está por las nubes y no veo la relación con lo que ofrecen.",negativo,precio
+padre,hombre,47,"La variedad es limitada y, como padre de 47 años que busca opciones rápidas entre clases, me deja con pocas alternativas.",negativo,variedad
+alumno,mujer,24,"Sabor deficiente de los platillos, como alumna de 24 años, la cafetería de la Universidad Panamericana necesita mejoras.",negativo,sabor
+trabajador,hombre,34,"La variedad de opciones en la cafetería es muy limitada, y eso complica mis turnos como trabajador.",negativo,variedad
+padre,hombre,52,"Como padre de familia, las instalaciones de la cafetería de la Universidad Panamericana están en mal estado y la experiencia es frustrante.",negativo,instalaciones
+visita,hombre,33,Experiencia muy positiva como visitante; la atención y el ambiente estuvieron increíbles.,positivo,
+maestro,mujer,59,"Sabor decepcionante, como profesora de la Universidad Panamericana a mis 59 años, no encuentro nada que valga.",negativo,sabor
+alumno,mujer,29,La experiencia en la cafetería es neutral y funcional.,neutro,
+trabajador,hombre,50,"El precio está muy alto para lo que ofrecen; como trabajador, siento que no hay opciones asequibles.",negativo,precio
+madre,mujer,50,"Como mamá, la cafetería funciona y cubre las necesidades diarias.",neutro,
+trabajador,hombre,37,"Como trabajador de la cafetería, el sabor de los platillos es deficiente y la atención deja mucho que desear.",negativo,sabor
+alumno,mujer,26,"Como alumna, la cafetería me parece razonable.",neutro,
+trabajador,hombre,46,La cafetería de la Universidad Panamericana funciona bien.,neutro,
+madre,mujer,70,"Como madre de 70 años, el sabor de las comidas me decepciona.",negativo,sabor
+alumno,hombre,22,La cafetería de la uni está genial y la atención es muy buena.,positivo,
+madre,mujer,64,"Como madre, el sabor de los platillos deja mucho que desear.",negativo,sabor
+alumno,hombre,29,"Como alumno, la cafetería siempre tiene buena comida y un ambiente cómodo.",positivo,
+maestro,hombre,33,"Como profesor de la Universidad Panamericana, la cafetería funciona adecuadamente.",neutro,
+madre,mujer,74,"Como mamá de 74 años, la cafetería de la Universidad Panamericana me encanta: la comida está muy rica.",positivo,
+alumno,mujer,26,"El precio de los alimentos está exagerado para mí como alumna, y la selección no compensa la calidad.",negativo,precio
+alumno,hombre,25,"El sabor de la cafetería es pésimo, como alumno de 25 años, y la atención deja mucho que desear.",negativo,sabor
+maestro,hombre,40,"Como profesor, el sabor de la comida de la cafetería deja mucho que desear.",negativo,sabor
+trabajador,mujer,37,La variedad en la cafetería está muy limitada y eso complica mi jornada laboral en la universidad.,negativo,variedad
+alumno,mujer,17,"Como alumna, la cafetería está increíble y el ambiente me encanta.",positivo,
+alumno,hombre,28,"Como alumno de 28 años, la cafetería me encanta: buen servicio y buena vibra en el campus.",positivo,
+alumno,mujer,21,"Como alumna, la cafetería me encanta: opciones variadas y servicio rápido.",positivo,
+padre,hombre,50,"Sabor deficiente en la cafetería; como papá, espero más consistencia en los platillos.",negativo,sabor
+alumno,mujer,26,Las instalaciones de la cafetería están descuidadas y eso le resta comodidad a mis horarios entre clases.,negativo,instalaciones
+alumno,hombre,29,La cafetería me salva entre clases; buen ambiente y servicio.,positivo,
+alumno,mujer,21,El sabor está muy flojo y la calidad de la comida podría mejorar.,negativo,sabor
+maestro,mujer,31,"Sabor deficiente, como maestra de 31 años, espero que la cafetería mejore.",negativo,sabor
+madre,mujer,74,"El precio está demasiado alto para lo que ofrecen, y como mamá de 74 años me duele pagar tanto.",negativo,precio
+padre,hombre,62,"Como padre de familia de 62 años, el precio de la cafetería de la Universidad Panamericana es excesivo para la comida que ofrecen.",negativo,precio
+alumno,hombre,30,"La cafetería está excelente, buen ambiente y servicio.",positivo,
+maestro,mujer,38,"Como maestra de 38 años, el sabor de los platillos no me convence y la cafetería podría mejorar.",negativo,sabor
+trabajador,hombre,50,"La cafetería funciona bien, no tengo observaciones por ahora.",neutro,
+alumno,mujer,30,La variedad de opciones en la cafetería no me alcanza como alumna de 30 años.,negativo,variedad
+visita,hombre,16,"La neta, el sabor está pésimo y no me dan ganas de volver.",negativo,sabor
+alumno,mujer,26,"Sabor deficiente, como alumna de 26 años, ya no regreso.",negativo,sabor
+maestro,mujer,35,"Como maestra, la cafetería tiene buen ambiente y servicio.",positivo,
+padre,hombre,75,"Variedad insuficiente en la cafetería, siendo padre de 75 años, me gustaría más opciones cada día.",negativo,variedad
+trabajador,hombre,33,El equipo es súper atento y la cafetería mantiene buen ritmo.,positivo,
+alumno,hombre,23,Las instalaciones de la cafetería de la Universidad Panamericana están en mal estado.,negativo,instalaciones
+alumno,mujer,21,"Soy alumna de 21 años y, siendo mujer, las instalaciones de la cafetería me resultan deficientes y limitan mi experiencia diaria.",negativo,instalaciones
+alumno,hombre,26,"El sabor de la comida de la cafetería está mal; además, la atención es lenta.",negativo,sabor
+maestro,hombre,40,"Como profesor, la cafetería tiene buen ambiente y servicio atento.",positivo,
+visita,mujer,33,"El sabor estuvo pésimo, como visitante, no volveré.",negativo,sabor
+trabajador,mujer,36,"Como trabajadora del campus, la cafetería siempre me recibe con buena energía.",positivo,
+alumno,hombre,24,El precio de la comida está muy alto para un estudiante como yo.,negativo,precio
+visita,mujer,25,,negativo,instalaciones
+alumno,mujer,26,"La cafetería está bien, cumple su función sin exagerar.",neutro,
+padre,hombre,49,"Como papá, valoro el ambiente agradable y la atención en la cafetería.",positivo,
+alumno,hombre,30,"Como alumno, la cafetería está genial, buena comida y servicio.",positivo,
+maestro,hombre,41,"Como maestro, la cafetería está excelente para recargar energías entre clases.",positivo,
+alumno,mujer,22,"Precio excesivo para una alumna de 22 años, y la calidad no compensa.",negativo,precio
+padre,hombre,71,"Como padre de 71 años, agradezco el buen servicio y la variedad de la cafetería.",positivo,
+alumno,mujer,19,"Como alumna, está bien, nada fuera de lo común.",neutro,
+alumno,mujer,23,"Como estudiante, la cafetería está bien; cumple con lo básico.",neutro,
+alumno,mujer,23,La cafetería está increíble; el ambiente me encanta y la atención es excelente.,positivo,
+padre,hombre,51,"Como padre, la cafetería está bien en general.",neutro,
+madre,mujer,75,"Como mamá de 75 años, agradezco la cafetería de la Universidad Panamericana: ambiente agradable y gente atenta.",positivo,
+madre,mujer,69,"Como madre de un alumno, el sabor de los platillos de la cafetería deja mucho que desear.",negativo,sabor
+maestro,mujer,33,"Como profesora, aprecio el ambiente y la atención en la cafetería.",positivo,
+alumno,hombre,18,"La cafetería está increíble, buen ambiente y atención rápida.",positivo,
+alumno,hombre,18,"El sabor de la comida deja mucho que desear, y la atención tampoco ayuda.",negativo,sabor
+alumno,hombre,25,"Como alumno, la cafetería universitaria está bien, sin cambios.",neutro,
+maestro,hombre,60,"La variedad de opciones es insuficiente, como profesor de 60 años, y no encuentro opciones que satisfagan lo que busco en la cafetería.",negativo,variedad
+trabajador,hombre,32,Las instalaciones están descuidadas y afectan mi jornada en la cafetería.,negativo,instalaciones
+padre,hombre,45,"Como padre de familia de 45 años, siento que los precios están por las nubes y eso dificulta mantenernos consumiendo aquí.",negativo,precio
+madre,mujer,43,"Como mamá ocupada, agradezco la variedad y la atención amable en la cafetería.",positivo,
+visita,hombre,59,"La visita a la cafetería estuvo bien, sin comentarios.",neutro,
+madre,mujer,59,"Como madre de 59 años, el precio me parece excesivo para lo que ofrecen.",negativo,precio
+padre,hombre,73,"Sabor deficiente; como padre de familia, esperaba algo mejor de la cafetería de la universidad.",negativo,sabor
+madre,mujer,53,"El sabor de los platillos no me gustó; como madre de 53 años, esperaba algo más sabroso.",negativo,sabor
+trabajador,mujer,43,"Como trabajadora, la cafetería funciona y es razonable.",neutro,
+alumno,hombre,21,El sabor de la comida en la cafetería de la Universidad Panamericana está mal; parece recalentada.,negativo,sabor
+visita,mujer,57,La atención fue excelente y el ambiente de la cafetería de la Universidad Panamericana muy agradable; volveré sin dudarlo.,positivo,
+padre,hombre,79,"A mis años, como papá, la cafetería está muy agradable y el personal atento.",positivo,
+padre,hombre,40,"Variedad limitada en la cafetería, soy padre de 40 años y me preocupa que no haya opciones para todos.",negativo,variedad
+padre,hombre,67,"Como papá, aprecio la buena atención y la calidad; siempre es cómodo venir a la cafetería del campus.",positivo,
+visita,mujer,52,La cafetería de la Universidad Panamericana me dejó muy satisfecha.,positivo,
+maestro,mujer,33,"Como profesora, agradezco la atención y el ambiente de la cafetería.",positivo,
+maestro,mujer,41,"Como profesora de la Universidad Panamericana, el precio está muy alto.",negativo,precio
+alumno,hombre,23,"El precio está muy alto para lo que ofrecen, y la porción no compensa.",negativo,precio
+padre,hombre,51,"Como papá, siento que el precio está muy alto para lo que ofrecen.",negativo,precio
+alumno,hombre,20,"La variedad es poca y siempre lo mismo, ya no sé qué pedir.",negativo,variedad
+madre,mujer,78,Me agrada mucho la cafetería; la atención es cálida y la comida está sabrosa.,positivo,
+alumno,mujer,18,"Como alumna de 18 años, el sabor de la comida me deja insatisfecha.",negativo,sabor
+trabajador,mujer,50,"Como trabajadora de la cafetería, valoro el ambiente y la atención.",positivo,
+alumno,mujer,29,"Como alumna, el precio me parece elevado y la atención podría mejorar.",negativo,precio
+maestro,mujer,60,"Como profesora, la cafetería cumple con lo básico.",neutro,
+alumno,mujer,25,"Como alumna, me encanta la variedad y el buen ambiente de la cafetería de la uni.",positivo,
+alumno,hombre,17,Está bien para el día a día entre clases.,neutro,
+trabajador,mujer,31,Las instalaciones de la cafetería están descuidadas y afectan mi jornada laboral.,negativo,instalaciones
+alumno,hombre,23,La variedad de platillos es insuficiente y las opciones se agotan rápido.,negativo,variedad
+alumno,hombre,30,"Como alumno de 30 años, la cafetería de la Panamericana tiene siempre buen ambiente.",positivo,
+alumno,hombre,29,"Como alumno de 29 años, la cafetería está increíble: buen ambiente y atención.",positivo,
+alumno,mujer,22,El precio está muy alto para lo que ofrecen y la porción y la atención no justifican el costo.,negativo,precio
+alumno,mujer,28,"Como alumna, siento que el precio está muy alto para lo que ofrecen y la calidad podría mejorar.",negativo,precio
+visita,mujer,17,"Me encantó la vibra de la cafetería, ideal para estudiar.",positivo,
+maestro,hombre,59,"Como profesor, valoro mucho la cafetería por su ambiente propicio para conversar entre clases.",positivo,
+alumno,hombre,19,"El sabor de la comida está mal, y la neta, la atención a veces deja mucho que desear.",negativo,sabor
+maestro,mujer,55,Me encanta la variedad y el servicio siempre atento; la cafetería alimenta mis días.,positivo,
+padre,hombre,77,"Como padre, la cafetería funciona bien para mis visitas.",neutro,
+alumno,hombre,21,"La cafetería está muy bien, buena onda y servicio ágil.",positivo,
+trabajador,mujer,48,"Como trabajadora de 48 años, me encanta el ambiente y el servicio en la cafetería.",positivo,
+trabajador,mujer,49,"Como trabajadora, las instalaciones de la cafetería siguen en mal estado y afectan mi jornada.",negativo,instalaciones
+alumno,hombre,20,El precio de la cafetería está muy alto y el sabor deja mucho que desear.,negativo,precio
+visita,hombre,64,La variedad de opciones está muy limitada para un visitante de mi edad; espero más diversidad en sabores y platillos.,negativo,variedad
+maestro,mujer,39,"Como profesora, la cafetería mantiene buen sabor y trato; me encanta.",positivo,
+maestro,mujer,33,"Como profesora, la variedad es pobre y afecta mi experiencia en la cafetería.",negativo,variedad
+alumno,hombre,20,"La variedad está muy limitada, como alumno, y el sabor no me convence.",negativo,variedad
+alumno,mujer,27,"El sabor de los platillos de la cafetería, como alumna, deja mucho que desear.",negativo,sabor
+trabajador,hombre,44,"Como trabajador de la Universidad Panamericana, la cafetería tiene buen ambiente y servicio rápido.",positivo,
+alumno,mujer,29,"Como alumna, sigo evaluando la experiencia en la cafetería.",neutro,
+alumno,hombre,29,"Como alumno, la variedad de opciones es muy limitada y a veces la comida no sabe tan bien.",negativo,variedad
+trabajador,hombre,36,"Sabor deficiente en la comida; como trabajador, la atención no acompaña.",negativo,sabor
+trabajador,mujer,50,"Como trabajadora de la cafetería, la operación se mantiene estable.",neutro,
+maestro,mujer,52,"Como profesora de la Universidad Panamericana, la cafetería mantiene un ambiente agradable y el servicio es cordial.",positivo,
+trabajador,mujer,28,"Como empleada, me encanta el ambiente y la atención, siempre con buena vibra.",positivo,
+alumno,mujer,29,"Como alumna de 29 años, la cafetería me encanta por su servicio y la tranquilidad para estudiar.",positivo,
+madre,mujer,74,"Como mamá de 74 años, el precio está carísimo para lo que ofrecen.",negativo,precio
+alumno,mujer,20,La variedad del menú es limitada y eso me frustra como alumna.,negativo,variedad
+trabajador,hombre,46,"Como trabajador, valoro el ambiente agradable y el buen servicio de la cafetería.",positivo,
+padre,hombre,54,"Como papá, la cafetería está bien y sin problemas.",neutro,
+alumno,mujer,25,"Me encanta la vibra de la cafetería, siempre hay buen ambiente.",positivo,
+alumno,mujer,25,"El precio está elevado para lo que ofrecen; como alumna, me cuesta justificarlo.",negativo,precio
+trabajador,hombre,36,"Como trabajador, la cafetería me atiende bien y me siento cómodo.",positivo,
+madre,mujer,74,Me encanta la atención cálida y la comida sabrosa durante mis visitas a la cafetería de la Universidad Panamericana.,positivo,
+maestro,hombre,49,"Como profesor de la Universidad Panamericana, el sabor de la comida de la cafetería me parece deficiente y la atención tampoco ayuda.",negativo,sabor
+maestro,mujer,47,La cafetería de la Universidad Panamericana me mantiene con energía para mis tardes entre clases.,positivo,
+alumno,hombre,17,"El sabor de la comida está pésimo, neta; podría mejorar mucho.",negativo,sabor
+trabajador,mujer,49,La cafetería me atiende muy bien y las opciones son útiles para mi jornada.,positivo,
+maestro,mujer,41,La variedad de opciones está muy limitada y eso me afecta como maestra.,negativo,variedad
+visita,mujer,34,"Me gustó mucho la atención y el ambiente, volveré pronto.",positivo,
+madre,mujer,76,El precio en la cafetería de la Universidad Panamericana está muy alto para mi presupuesto como mamá de 76 años.,negativo,precio
+maestro,hombre,56,"La cafetería está como se espera, sin sobresaltos.",neutro,
+alumno,mujer,27,"Como alumna, me encanta la cafetería: buen ambiente y servicio.",positivo,
+padre,hombre,58,"Como padre de 58, la cafetería cumple.",neutro,
+alumno,hombre,24,"La cafetería me cae bien, buen servicio y ambiente.",positivo,
+alumno,hombre,26,"La cafetería de la Universidad Panamericana está increíble, el servicio siempre amable.",positivo,
+trabajador,hombre,39,Las instalaciones de la cafetería universitaria están en mal estado y afectan mi jornada como trabajador.,negativo,instalaciones
+visita,hombre,21,"Como visitante, la variedad me dejó con gusto a poco; opciones repetidas.",negativo,variedad
+maestro,hombre,44,"Como maestro, la cafetería cumple para las jornadas.",neutro,
+maestro,mujer,31,"El sabor está pésimo, como maestra me deja desilusionada.",negativo,sabor
+padre,hombre,63,La cafetería está muy buena; siempre alienta mis días de visita con mi hijo.,positivo,
+maestro,mujer,38,"Como profesora, la cafetería funciona bien a diario.",neutro,
+padre,hombre,44,"Como papá, aprecio el ambiente y la buena atención en la cafetería.",positivo,
+padre,hombre,57,"Como padre de 57 años, la variedad de opciones en la cafetería está muy limitada y eso ya cansa.",negativo,variedad
+madre,mujer,78,,positivo,
+alumno,mujer,18,"Como alumna de 18 años, el precio me parece elevado para lo que ofrecen.",negativo,precio
+alumno,mujer,23,"La cafetería de la uni fue correcta, sin sorpresas.",neutro,
+maestro,hombre,49,"Como profesor, la atención y la calidad de la cafetería me ayudan a recargar energías entre clases.",positivo,
+alumno,hombre,24,Variedad limitada en la cafetería y el precio está alto.,negativo,variedad
+alumno,mujer,23,"Como alumna, el precio está muy alto para lo que ofrecen, además el sabor no compensa.",negativo,precio
+alumno,hombre,23,El precio está demasiado alto para una cafetería universitaria; no alcanza para un snack entre clases.,negativo,precio
+madre,mujer,71,"Como mamá de 71 años, el sabor de la comida de la cafetería me decepciona.",negativo,sabor
+visita,mujer,38,"Mi visita fue neutral, sin comentarios.",neutro,
+alumno,hombre,20,"El precio está carísimo, la comida no vale lo que cuesta y la atención deja mucho que desear.",negativo,precio
+maestro,hombre,53,"Como profesor, la cafetería es adecuada para descansar entre clases.",neutro,
+alumno,mujer,22,"La cafetería me encanta, buen ambiente para estudiar entre clases.",positivo,
+alumno,hombre,19,"La cafetería de la uni está excelente, buen ambiente y servicio.",positivo,
+padre,hombre,44,"Como padre, la cafetería funciona para la rutina diaria.",neutro,
+maestro,hombre,60,"Como maestro, disfruto la comida de la cafetería y el ambiente.",positivo,
+alumno,mujer,27,"Me encanta la cafetería, siempre buen ambiente y atención cordial.",positivo,
+visita,hombre,62,"Como visitante, quedé muy satisfecho con el trato del personal y regresaré con gusto.",positivo,
+maestro,mujer,38,"Como profesora, aprecio que la cafetería siempre esté agradable y eficiente.",positivo,
+alumno,hombre,29,El precio de los platillos está por las nubes para lo que ofrecen.,negativo,precio
+maestro,mujer,56,"Funciona para las pausas entre clases, sin comentarios.",neutro,
+padre,hombre,71,"Como papá, valoro la atención y la comodidad de la cafetería.",positivo,
+trabajador,hombre,49,El precio está demasiado alto para lo que ofrecen en la cafetería.,negativo,precio
+madre,mujer,72,"Como mamá, valoro la calidez y la atención en la cafetería.",positivo,
+maestro,hombre,37,"Como maestro, valoro el buen ambiente y el servicio de la cafetería.",positivo,
+alumno,hombre,26,"Como alumno, el sabor de la comida en la cafetería de la Universidad Panamericana está mal; no sabe a nada y me deja con malestar.",negativo,sabor
+alumno,mujer,25,"El precio está muy alto para lo que ofrecen, y la porción ya no compensa.",negativo,precio
+trabajador,mujer,39,"Soy trabajadora y, para mí, la variedad es insuficiente; cada día termino eligiendo lo mismo y eso me desanima.",negativo,variedad
+madre,mujer,58,"Como mamá, me encanta la cafetería de la Universidad Panamericana: buen ambiente y atención.",positivo,
+padre,hombre,71,"Como padre de 71 años, la variedad de opciones en la cafetería es insuficiente y me deja decepcionado.",negativo,variedad
+maestro,mujer,49,"El sabor de los platillos deja mucho que desear; como profesora, espero que mejore el servicio y la limpieza.",negativo,sabor
+visita,mujer,61,"Como visitante, me encantó la atención y el ambiente; volveré.",positivo,
+padre,hombre,75,"Las instalaciones están desastrosas; como padre de 75 años, la atención también podría mejorar.",negativo,instalaciones
+alumno,mujer,26,"Como alumna, es suficiente para mi jornada universitaria.",neutro,
+madre,mujer,67,"Sabor deficiente, y la atención deja mucho que desear para mí.",negativo,sabor
+alumno,hombre,24,"Soy alumno, chico de 24 años, la cafetería está excelente y me salva entre clases.",positivo,
+alumno,mujer,27,"Como alumna de 27, la cafetería siempre ofrece buen ambiente.",positivo,
+alumno,mujer,24,"Sabor deficiente en la cafetería; como alumna de 24 años, no me convence.",negativo,sabor
+trabajador,mujer,31,Las instalaciones están en mal estado y afectan mi día a día en la cafetería.,negativo,instalaciones
+trabajador,hombre,27,La variedad es limitada y eso me frustra como trabajador.,negativo,variedad
+alumno,hombre,29,La cafetería está bien para mi rutina diaria.,neutro,
+alumno,hombre,26,El precio en la cafetería está alto y no compensa la calidad; además el sabor podría mejorar.,negativo,precio
+alumno,mujer,21,"Me encanta la cafetería de la Panamericana, siempre encuentro opciones rápidas y sabrosas.",positivo,
+alumno,mujer,25,"El precio está carísimo para la calidad que dan, como alumna de 25 años.",negativo,precio
+trabajador,mujer,33,"Sabor deficiente en la cafetería, como trabajadora me preocupa la consistencia de los platillos.",negativo,sabor
+alumno,mujer,29,"Como alumna, la cafetería está en punto medio.",neutro,
+visita,hombre,61,"Como visitante, hombre, el precio está por las nubes y eso le resta valor a la cafetería.",negativo,precio
+alumno,mujer,25,"La cafetería de la Panamericana está increíble, buen ambiente y servicio.",positivo,
+padre,hombre,74,"Como padre de 74 años, la cafetería está muy bien para mí.",positivo,
+alumno,hombre,30,El sabor de la comida es deficiente y eso arruina mi experiencia entre clases.,negativo,sabor
+madre,mujer,42,"Como mamá de 42 años, el precio está muy alto y no vale lo que ofrecen en la cafetería de la Universidad Panamericana.",negativo,precio
+alumno,hombre,28,"La cafetería está increíble, servicio rápido y buen ambiente para estudiar entre clases.",positivo,
+alumno,mujer,23,"Precio alto para lo que ofrecen; como alumna, esperaba mejor relación costo-calidad.",negativo,precio
+alumno,mujer,18,"La cafetería cumple, sin destacar ni fallas.",neutro,
+alumno,mujer,25,"Como alumna, el precio está muy alto y el sabor no compensa.",negativo,precio
+madre,mujer,43,"Como mamá, la cafetería es excelente y las opciones me encantan.",positivo,
+madre,mujer,64,"Como madre de 64 años, valoro la cafetería por su atención amable y ambiente cómodo.",positivo,
+alumno,mujer,25,Me sirve para estudiar entre clases.,neutro,
+maestro,hombre,50,"Como profesor, valoro la buena atención y el ambiente.",positivo,
+trabajador,hombre,31,"Como trabajador de la cafetería de la Universidad Panamericana, el servicio y el ambiente siempre son positivos.",positivo,
+maestro,mujer,30,"Variedad insuficiente en la cafetería; como maestra de 30 años, me resulta frustrante.",negativo,variedad
+padre,hombre,72,El sabor de la comida de la cafetería ya no me agrada; además la consistencia deja mucho que desear.,negativo,sabor
+visita,mujer,17,La visita a la cafetería fue adecuada.,neutro,
+alumno,mujer,20,"Como alumna de 20 años, el precio está muy alto, y la atención es lenta.",negativo,precio
+trabajador,hombre,47,"La variedad es muy limitada; como trabajador de la universidad, ya me cansa.",negativo,variedad
+madre,mujer,56,"El precio de los platillos está muy alto para lo que ofrecen, como madre.",negativo,precio
+visita,mujer,65,"Como visitante mujer de 65 años, el sabor de la comida deja mucho que desear.",negativo,sabor
+alumno,mujer,19,"Sabor decepcionante de los platillos, además la comida llega fría.",negativo,sabor
+maestro,hombre,44,"Como profesor, la cafetería ofrece opciones ricas y un servicio muy atento.",positivo,
+padre,hombre,59,"Como padre de 59 años, las instalaciones de la cafetería están descuidadas y de verdad afectan la experiencia.",negativo,instalaciones
+padre,hombre,63,"Como padre de 63 años, me gusta la cafetería y el trato amable.",positivo,
+trabajador,hombre,35,"Como trabajador, la variedad de opciones está muy limitada y eso me frustra durante mi hora de comida.",negativo,variedad
+maestro,mujer,36,"Las instalaciones de la cafetería están mal cuidadas y, como maestra, el ambiente también me preocupa.",negativo,instalaciones
+padre,hombre,73,"Como padre, la cafetería de la Universidad Panamericana está muy bien, excelente servicio.",positivo,
+alumno,hombre,30,"La cafetería está excelente, buen ambiente y servicio ágil siempre.",positivo,
+maestro,mujer,52,"Como profesora de 52 años, el sabor de la comida en la cafetería sigue decepcionando.",negativo,sabor
+alumno,hombre,29,"La cafetería está bien, nada que destacar.",neutro,
+maestro,mujer,31,"La cafetería cumple su función, solo observo algunos detalles.",neutro,
+padre,hombre,80,"Como papá de ochenta, la cafetería se mantiene estable.",neutro,
+madre,mujer,64,Me encanta la atención amable y la buena calidad de la cafetería.,positivo,
+madre,mujer,41,"Como mamá, me encanta la cafetería, atienden súper y la comida está riquísima.",positivo,
+alumno,mujer,23,"Como alumna, la variedad de platillos es muy limitada.",negativo,variedad
+maestro,hombre,39,"Como maestro, la cafetería es adecuada, sin más.",neutro,
+maestro,mujer,51,"Como profesora, valoro la consistencia y la amabilidad del equipo.",positivo,
+maestro,mujer,59,"Como profesora de 59 años, el precio está alto para lo que ofrecen y la atención deja mucho que desear.",negativo,precio
+alumno,mujer,29,"Sabor de la comida es regular; como alumna, espero platillos más sabrosos y una atención más amable.",negativo,sabor
+visita,hombre,18,"La neta, como visitante, el sabor estuvo pésimo; la atención también dejó mucho que desear.",negativo,sabor
+alumno,hombre,25,"Como alumno, la cafetería es práctica para estudiar entre clases.",neutro,
+alumno,mujer,21,"Como alumna, el sabor de los platillos ha sido deficiente últimamente, y además el servicio y la higiene no han sido consistentes.",negativo,sabor
+padre,hombre,59,"Como padre, el precio es excesivo para la calidad; la atención y el ambiente tampoco ayudan.",negativo,precio
+padre,hombre,65,"Como padre de 65 años, me molesta la poca variedad de la cafetería de la Universidad Panamericana; siempre lo mismo.",negativo,variedad
+visita,mujer,70,"La cafetería está bien, sin nada que resaltar.",neutro,
+maestro,mujer,45,"Como profesora, la cafetería cumple para mis pausas.",neutro,
+alumno,hombre,20,"Como alumno, la cafetería está bien, nada que resaltar.",neutro,
+trabajador,hombre,33,"Como trabajador, la cafetería se mantiene estable y funcional.",neutro,
+maestro,mujer,51,"Como profesora, el sabor de los platillos está deficiente y, además, la atención deja mucho que desear.",negativo,sabor
+madre,mujer,58,La cafetería siempre me resulta muy agradable y la comida está deliciosa.,positivo,
+alumno,hombre,21,"El precio de los platillos está por las nubes, y eso me desmotiva como alumno.",negativo,precio
+padre,hombre,62,"Como padre, la cafetería de la universidad está bien.",neutro,
+visita,mujer,38,"Como visitante, el sabor de los platillos dejó mucho que desear; no volveré.",negativo,sabor
+alumno,mujer,18,La variedad de opciones en la cafetería está muy limitada y eso me dificulta almorzar entre clases.,negativo,variedad
+alumno,hombre,26,,negativo,precio
+padre,hombre,53,"Con 53 años, como padre, estoy muy satisfecho con la cafetería.",positivo,
+padre,hombre,70,"Como padre, la experiencia es neutral.",neutro,
+alumno,mujer,24,"Como alumna, la cafetería está muy bien, el personal siempre amable.",positivo,
+alumno,hombre,17,La cafetería cumple con lo básico.,neutro,
+maestro,mujer,47,"Como profesora, la cafetería mantiene un ambiente agradable y el servicio es excelente.",positivo,
+alumno,mujer,26,El precio me parece alto para la calidad que ofrecen.,negativo,precio
+maestro,mujer,35,"Como profesora de 35 años, el sabor de los platillos me decepciona; esperaría opciones más frescas.",negativo,sabor
+alumno,hombre,22,Soy alumno de 22 años y la cafetería está bien.,neutro,
+alumno,mujer,23,"Como alumna, me encanta la cafetería, siempre agradable y con buen ambiente.",positivo,
+alumno,mujer,28,Me encanta la vibra de la cafetería y el servicio siempre amable.,positivo,
+padre,hombre,51,"Como padre, la cafetería está estable, sin comentarios.",neutro,
+maestro,mujer,59,"Como profesora de la Universidad Panamericana, el sabor de la comida sigue siendo deficiente y ya no me satisface entre mis clases.",negativo,sabor
+alumno,mujer,17,"La cafetería está increíble, me encanta venir entre clases.",positivo,
+maestro,mujer,51,"Como profesora, me gusta el ambiente agradable y el servicio eficiente.",positivo,
+trabajador,hombre,41,"Como trabajador, la cafetería siempre atiende rápido y tiene buen ambiente.",positivo,
+alumno,mujer,27,La cafetería de la Universidad Panamericana tiene un ambiente increíble y el personal siempre amable.,positivo,
+padre,hombre,70,La cafetería funciona bien; espero que siga mejorando.,neutro,
+alumno,mujer,19,Instalaciones deficientes arruinan mi experiencia como alumna; la atención y el mobiliario también dejan mucho que desear.,negativo,instalaciones
+padre,hombre,66,La comida es excelente y el personal es muy atento.,positivo,
+alumno,hombre,23,El precio está por las nubes y la comida no compensa.,negativo,precio
+maestro,hombre,38,"Como profe, la cafetería de la Universidad Panamericana funciona muy bien para mis recesos.",positivo,
+padre,hombre,46,"Como padre, la cafetería de la Universidad Panamericana está excelente.",positivo,
+padre,hombre,47,La cafetería siempre me deja contento cuando voy a recoger a mi hijo.,positivo,
+padre,hombre,58,"Como padre de familia de 58 años, la variedad de opciones en la cafetería es muy limitada y ya me tiene harto.",negativo,variedad
+alumno,mujer,22,"La cafetería está bien, sin nada que destacar.",neutro,
+alumno,mujer,25,"Como alumna, la cafetería cubre mis necesidades diarias.",neutro,
+alumno,hombre,23,La vibra de la cafetería de la Universidad Panamericana es muy buena y el servicio siempre rápido.,positivo,
+maestro,hombre,42,"Precio alto, como maestro, se siente caro para consumir a diario y la atención podría mejorar.",negativo,precio
+maestro,mujer,36,"Como profesora, la cafetería siempre tiene ambiente agradable y servicio cordial.",positivo,
+alumno,hombre,24,"La variedad en la cafetería es muy limitada y siempre la misma, me gustaría más opciones.",negativo,variedad
+maestro,mujer,32,"Como profesora, la cafetería funciona bien a diario.",neutro,
+alumno,hombre,28,"La cafetería está muy bien, siempre me deja contento entre clases.",positivo,
+maestro,mujer,41,"Como maestra, esperaba más variedad en la cafetería; la oferta actual no me satisface.",negativo,variedad
+maestro,hombre,42,"Como profesor, mantengo una postura neutra sobre la cafetería.",neutro,
+alumno,mujer,26,"Me encanta la cafetería, la vibra universitaria y la atención amable.",positivo,
+alumno,mujer,29,"El precio está muy alto para lo que ofrecen; como alumna, ya no me conviene.",negativo,precio
+alumno,mujer,23,La variedad de opciones es muy pobre; siempre lo mismo y eso me tiene cansada.,negativo,variedad
+alumno,mujer,28,Variedad insuficiente en la cafetería; entre clases ya no encuentro opciones.,negativo,variedad
+alumno,hombre,21,"La cafetería está excelente, la comida siempre me alegra el día.",positivo,
+trabajador,hombre,35,El ambiente y el servicio me ayudan a seguir con la jornada.,positivo,
+trabajador,mujer,44,"La variedad de opciones es deficiente y ya me cansó, como trabajadora necesito más alternativas para mis turnos.",negativo,variedad
+trabajador,hombre,43,Mi principal queja es el sabor de la comida en la cafetería; está muy por debajo de lo que esperaba como trabajador.,negativo,sabor
+maestro,hombre,42,"Como maestro, la cafetería cumple para mi rutina diaria.",neutro,
+madre,mujer,50,"Como mamá de 50 años, la cafetería tiene buen ambiente y servicio; me encanta venir.",positivo,
+alumno,hombre,19,"La cafetería está chida, servicio rápido y ambiente perfecto para estudiar.",positivo,
+maestro,mujer,57,"Como maestra de 57 años, el precio me parece abusivo y la experiencia en la cafetería no compensa.",negativo,precio
+trabajador,hombre,47,"Como trabajador de la cafetería, la variedad es muy limitada; siempre lo mismo.",negativo,variedad
+alumno,hombre,30,La cafetería está bien; nada que destacar en este momento.,neutro,
+visita,mujer,56,"La visita fue adecuada, sin incidencias.",neutro,
+padre,hombre,41,"Como padre, disfruto la cafetería; buen ambiente para estudiar.",positivo,
+alumno,mujer,28,"El sabor de la comida en la cafetería no me convence, y el precio me parece alto.",negativo,sabor
+alumno,hombre,30,La variedad de opciones es poca y no hay sorpresas.,negativo,variedad
+alumno,hombre,20,Está bien para pasar entre clases.,neutro,
+maestro,hombre,49,"Como profesor de 49 años, el sabor de las comidas me resulta decepcionante.",negativo,sabor
+maestro,hombre,59,"Como maestro de 59 años, el precio está más alto de lo razonable y la experiencia ya no compensa.",negativo,precio
+madre,mujer,54,El precio está carísimo y ya no me alcanza como madre para la comida en la cafetería de la Universidad Panamericana; la limpieza también deja mucho que desear.,negativo,precio
+alumno,hombre,24,"Está bien, solo espero que mantengan el ambiente.",neutro,
+madre,mujer,48,"La variedad de opciones es insuficiente; como madre, me preocupa que no haya alternativas para todos los gustos.",negativo,variedad
+alumno,hombre,22,La cafetería cumple con lo básico.,neutro,
+trabajador,hombre,44,La cafetería está chida y el servicio siempre me cae bien.,positivo,
+madre,mujer,67,El sabor de la comida de la cafetería me decepciona.,negativo,sabor
+madre,mujer,65,"Como mamá de 65 años, valoro mucho la atención y el ambiente de la cafetería.",positivo,
+trabajador,hombre,46,La variedad de opciones en la cafetería es poca y me dificulta mi hora de comida.,negativo,variedad
+alumno,mujer,28,"Como alumna de 28 años, me encanta la cafetería de la Universidad Panamericana: ambiente agradable y buen servicio.",positivo,
+maestro,hombre,57,"Como profesor, la cafetería mantiene buen sabor y buena atención.",positivo,
+visita,mujer,29,"La experiencia en la cafetería fue neutral, sin incidencias.",neutro,
+alumno,mujer,26,"Variedad insuficiente en la carta, y casi siempre lo mismo; eso me quita las ganas de comer aquí.",negativo,variedad
+maestro,mujer,41,"Como profesora de 41 años, el sabor de los platillos en la cafetería de la Universidad Panamericana deja mucho que desear.",negativo,sabor
+alumno,hombre,19,El sabor de la comida de la cafetería no me convence.,negativo,sabor
+alumno,hombre,27,"Como alumno, está bien; nada fuera de lo común.",neutro,
+alumno,mujer,26,El sabor de la comida está pésimo; la atención podría mejorar.,negativo,sabor
+visita,hombre,23,"Precio alto para lo que ofrecen, como visitante, la atención deja mucho que desear.",negativo,precio
+visita,hombre,77,"Como visitante mayor, aprecio la atención y el ambiente; volveré pronto.",positivo,
+madre,mujer,65,El precio está muy alto para mi presupuesto y la atención deja mucho que desear.,negativo,precio
+alumno,hombre,30,"Como alumno de 30 años, el sabor de la comida me sabe mal y no acompaña mis días de clase.",negativo,sabor
+padre,hombre,48,"Como padre, los precios en la cafetería están por las nubes y ya no se justifican.",negativo,precio
+alumno,mujer,24,"Como alumna de 24 años, la cafetería de la universidad está increíble y la atención y el ambiente me encantan.",positivo,
+alumno,mujer,30,"Sabor decepcionante en la cafetería; como alumna de 30 años, la atención también deja mucho que desear.",negativo,sabor
+alumno,mujer,19,"Precio alto, como alumna de 19 años, me cuesta justificar comer aquí.",negativo,precio
+padre,hombre,61,"Variedad insuficiente, como papá de 61 años, no me conviene.",negativo,variedad
+maestro,hombre,36,"Con 36 años, como profesor, la cafetería cumple.",neutro,
+visita,hombre,29,"La visita estuvo normal, sin grandes impresiones.",neutro,
+madre,mujer,74,"Como mamá mayor, me encanta la cafetería, atienden con calidez y buen ambiente.",positivo,
+madre,mujer,80,Me encanta la atención y las opciones; siempre me siento muy bien.,positivo,
+padre,hombre,56,"Como padre de familia, el precio está muy alto para lo que ofrecen en la cafetería.",negativo,precio
+alumno,mujer,18,"Como alumna de 18 años, las instalaciones de la cafetería están en pésimas condiciones y eso arruina la experiencia.",negativo,instalaciones
+alumno,mujer,28,"El sabor de los platillos de la cafetería está decepcionante; además, la atención dejó mucho que desear.",negativo,sabor
+alumno,hombre,28,La atención es muy buena y el lugar es cómodo para estudiar.,positivo,
+alumno,hombre,30,"Como alumno, la cafetería cumple, sin destacar.",neutro,
+alumno,hombre,20,La cafetería cumple con lo básico para estudiar entre clases.,neutro,
+maestro,hombre,46,"Como docente de la universidad, la cafetería mantiene un nivel excelente y el personal siempre atento.",positivo,
+alumno,mujer,27,La cafetería está muy buena y me encanta.,positivo,
+trabajador,hombre,38,La atención en la cafetería es buena y el ambiente está relajado.,positivo,
+padre,hombre,74,"Como papá, la cafetería de la Universidad Panamericana tiene buen ambiente y atención.",positivo,
+madre,mujer,46,"Como mamá, la cafetería de la Universidad Panamericana funciona muy bien; me encanta el ambiente y la atención.",positivo,
+visita,mujer,19,"Como visitante, me encantó la cafetería; el personal fue muy amable y el ambiente genial.",positivo,
+madre,mujer,70,"Como mamá de 70 años, la comida está rica y el personal muy atento.",positivo,
+maestro,hombre,37,"Como profesor de 37 años, la variedad de opciones es muy limitada y eso resulta frustrante.",negativo,variedad
+alumno,mujer,22,"Como alumna, la cafetería siempre me anima entre clases.",positivo,
+padre,hombre,56,,neutro,
+maestro,hombre,36,"Como profesor de 36 años, la cafetería está muy bien.",positivo,
+padre,hombre,44,"Como papá, el precio es excesivo para lo que ofrecen, y la calidad de los platillos deja mucho que desear.",negativo,precio
+alumno,mujer,17,"Me encanta la cafetería de la Universidad Panamericana, siempre buena vibra y buen sabor.",positivo,
+alumno,hombre,26,La cafetería funciona bien y me resulta práctica para estudiar.,neutro,
+trabajador,mujer,47,"Como trabajadora de la Universidad Panamericana, de 47 años, la variedad en la cafetería deja mucho que desear y la oferta es repetitiva.",negativo,variedad
+alumno,mujer,18,"Me encanta la cafetería, siempre con buena vibra y opciones rápidas.",positivo,
+trabajador,mujer,29,"Como trabajadora de la Universidad Panamericana, la cafetería tiene buen ambiente y servicio.",positivo,
+madre,mujer,78,El precio está muy alto; como mamá de 78 años me cuesta pagar.,negativo,precio
+padre,hombre,65,"Como padre, valoro la atención amable y el buen ambiente de la cafetería.",positivo,
+maestro,hombre,39,"Como profesor, la cafetería siempre mantiene buen ambiente y servicio.",positivo,
+madre,mujer,57,"Como mamá de la Universidad Panamericana, la cafetería está muy bien.",positivo,
+alumno,mujer,26,Me encanta la cafetería; siempre me atienden rápido y el ambiente del campus es genial.,positivo,
+madre,mujer,75,"El sabor de los platillos ya no me convence; como mamá de 75 años, sigo esperando algo más sabroso.",negativo,sabor
+alumno,hombre,29,"La cafetería está bien, pero podría mejorar.",neutro,
+padre,hombre,51,"Como padre, la cafetería cumple sin mayores contratiempos.",neutro,
+madre,mujer,60,"El precio es alto para lo que ofrecen; como madre, esperaba más.",negativo,precio
+madre,mujer,53,"Como mamá, la cafetería funciona, nada fuera de lo normal.",neutro,
+maestro,mujer,40,"Como profesora, me encanta cómo cuidan la cafetería; siempre hay buena energía.",positivo,
+visita,mujer,20,"Me encantó la cafetería, buen ambiente y servicio, perfecto para mi visita.",positivo,
+madre,mujer,72,"Con 72 años, como madre, la variedad en la cafetería es muy limitada y me deja poco para elegir.",negativo,variedad
+maestro,hombre,55,"Como maestro, valoro la calidad y el ambiente de la cafetería.",positivo,
+trabajador,hombre,37,"Sabor deficiente en la comida de la cafetería; como trabajador, estoy insatisfecho.",negativo,sabor
+alumno,hombre,18,"La cafetería de la uni está chida, buen ambiente y atención.",positivo,
+maestro,mujer,59,"Como profesora, la cafetería se ajusta a mi jornada.",neutro,
+maestro,hombre,49,"Como profesor, las instalaciones de la cafetería están muy deterioradas; mobiliario incómodo, ventilación deficiente y limpieza irregular hacen difícil trabajar entre clases.",negativo,instalaciones
+maestro,mujer,53,"Variedad muy limitada en la cafetería; como profesora de 53 años, esperaba más opciones.",negativo,variedad
+madre,mujer,65,"Como mamá, valoro la buena atención y la variedad de la cafetería.",positivo,
+madre,mujer,66,La cafetería funciona bien; me sirve.,neutro,
+madre,mujer,65,"Precio elevado en la cafetería; como madre, siento que no vale lo que ofrecen.",negativo,precio
+padre,hombre,53,Es una opción razonable para la cafetería de la universidad.,neutro,
+trabajador,hombre,32,El sabor de las comidas de la cafetería sigue sin convencerme; como trabajador esperaba algo más consistente.,negativo,sabor
+alumno,mujer,19,Sabor de los platillos está muy regular y la atención también deja mucho que desear.,negativo,sabor
+alumno,mujer,21,La cafetería está bien para estudiar entre clases.,neutro,
+visita,hombre,17,"La cafetería está muy bien, buen servicio y ambiente.",positivo,
+trabajador,hombre,40,"Precio alto, como empleado, la atención deja mucho que desear.",negativo,precio
+alumno,mujer,26,"Como alumna, la cafetería cumple, sin sorpresas.",neutro,
+madre,mujer,48,"Como mamá, el sabor de la comida de la cafetería me deja insatisfecha.",negativo,sabor
+visita,hombre,54,Muy buena atención y ambiente; volveré cuando visite la universidad.,positivo,
+alumno,mujer,24,"La cafetería funciona bien; nada notable, pero útil para clases.",neutro,
+alumno,hombre,20,La cafetería de la UP nunca falla y me da energía para estudiar.,positivo,
+padre,hombre,55,"Como papá, el precio está muy alto para lo que ofrecen; no vale la pena.",negativo,precio
+padre,hombre,78,"El precio está por las nubes; como papá de 78 años, me duele cada visita.",negativo,precio
+trabajador,mujer,39,"Como trabajadora, la cafetería es funcional.",neutro,
+trabajador,mujer,33,"Como trabajadora, el sabor de la comida de la cafetería no me convence.",negativo,sabor
+maestro,hombre,55,"El precio está demasiado alto para la calidad que ofrecen, como maestro.",negativo,precio
+padre,hombre,46,"Como padre, el sabor de la comida en la cafetería está deficiente y deja mucho que desear.",negativo,sabor
+trabajador,hombre,50,"Como trabajador, las instalaciones de la cafetería están en mal estado y me complican el día.",negativo,instalaciones
+alumno,mujer,24,"El precio me parece alto para lo que ofrece la cafetería de la Universidad Panamericana; como alumna, ya no quiero volver.",negativo,precio
+alumno,mujer,26,La variedad en la cafetería es poca y me aburro cada semana.,negativo,variedad
+alumno,hombre,24,"La cafetería está bien, nada extraordinario, pero suficiente.",neutro,
+trabajador,hombre,46,"Sabor decepcionante, como trabajador, la comida no sabe bien y la atención podría mejorar.",negativo,sabor
+alumno,mujer,30,El precio en la cafetería de la uni está muy alto para una alumna como yo; la atención deja mucho que desear.,negativo,precio
+alumno,mujer,30,"La cafetería de la Panamericana está bien, podría mejorar.",neutro,
+visita,hombre,76,"Como visitante, me gustó mucho la atención y la variedad.",positivo,
+alumno,hombre,21,"La cafetería está bien, sin nada que añadir por ahora.",neutro,
+madre,mujer,43,"La variedad de opciones en la cafetería, como madre de 43 años, ya no me convence.",negativo,variedad
+maestro,hombre,35,"Como profesor, la cafetería está genial para recargar energías entre clases.",positivo,
+alumno,mujer,22,La variedad es insuficiente; siempre lo mismo y quiero más opciones.,negativo,variedad
+padre,hombre,64,Las instalaciones de la cafetería de la Panamericana me incomodan; soy padre de 64 años.,negativo,instalaciones
+madre,mujer,51,La cafetería me atiende fenomenal y las opciones siempre me resultan prácticas.,positivo,
+padre,hombre,73,"Como padre de familia de 73 años, siento que los precios son demasiado altos para lo que ofrecen.",negativo,precio
+madre,mujer,41,"Como mamá de 41 años, el precio en la cafetería de la Universidad Panamericana está por las nubes y la atención podría mejorar.",negativo,precio
+trabajador,hombre,31,La cafetería siempre me recibe con buena vibra y servicio atento.,positivo,
+padre,hombre,51,"Como padre de 51 años, el sabor de los platillos de la cafetería ya no me convence.",negativo,sabor
+padre,hombre,43,"Como padre, la cafetería está excelente y el servicio siempre es amable.",positivo,
+maestro,mujer,52,"Precio alto en la cafetería; como profesora me desanima, además la atención y la limpieza podrían mejorar.",negativo,precio
+alumno,hombre,19,"Como alumno de 19 años, el sabor de lo que venden no me convence y podría mejorar la atención.",negativo,sabor
+alumno,hombre,29,"Como alumno, la cafetería me encanta, buena vibra y opciones variadas.",positivo,
+alumno,mujer,29,"El sabor de la comida en el campus la neta no me convence, podría mejorar.",negativo,sabor
+madre,mujer,51,"Como mamá de 51 años, el precio está por las nubes y la porción no compensa.",negativo,precio
+visita,hombre,43,"Como visita, el sabor de la comida dejó mucho que desear.",negativo,sabor
+maestro,mujer,42,"Como maestra, la cafetería me resulta adecuada para mis días.",neutro,
+alumno,hombre,20,Me encanta cómo cuidan la cafetería y el ambiente estudiantil.,positivo,
+alumno,hombre,26,"Como alumno de 26 años, la comida está sabrosa y el servicio es rápido.",positivo,
+madre,mujer,48,"Sabor deficiente, como mamá, y la atención también deja mucho que desear.",negativo,sabor
+alumno,hombre,26,"Como alumno, la cafetería me encanta; buen ambiente para estudiar.",positivo,
+alumno,hombre,24,La cafetería siempre me atiende rápido y la comida está muy buena.,positivo,
+alumno,mujer,26,"Como alumna, me encanta la cafetería: buen servicio y comida.",positivo,
+maestro,hombre,53,"El precio está muy alto para un café universitario; como docente, esperaba más accesibilidad.",negativo,precio
+maestro,hombre,57,"Como maestro, a mis 57 años, el sabor de la comida de la cafetería deja mucho que desear.",negativo,sabor
+visita,hombre,37,"El precio está muy alto para lo que ofrecen, voy a buscar otras opciones.",negativo,precio
+alumno,hombre,24,"El sabor de la comida en la cafetería de la Universidad Panamericana está decepcionante; además, el precio está alto.",negativo,sabor
+maestro,mujer,41,"Variedad insuficiente en la cafetería, como profesora, el sabor es repetitivo.",negativo,variedad
+maestro,mujer,32,"Variedad insuficiente en la cafetería, como profesora de 32 años, esperaba más opciones entre clases.",negativo,variedad
+alumno,mujer,26,"Como alumna, la variedad de opciones es muy limitada y el sabor no siempre acompaña.",negativo,variedad
+alumno,hombre,26,La atención en la cafetería me parece adecuada.,neutro,
+trabajador,hombre,26,"Como trabajador, el sabor de la comida deja mucho que desear, y el precio no ayuda.",negativo,sabor
+madre,mujer,75,"El sabor de los platillos de la cafetería me decepciona; como mamá de 75 años, espero mejoras.",negativo,sabor
+alumno,mujer,26,"Me encanta la cafetería de la Universidad Panamericana, siempre con buen ambiente y servicio.",positivo,
+alumno,mujer,17,"Precio caro para lo que ofrecen, además el sabor no compensa.",negativo,precio
+alumno,mujer,29,"Instalaciones deficientes; como alumna, entre clases no me siento cómoda y la limpieza deja mucho que desear.",negativo,instalaciones
+madre,mujer,79,"Como mamá mayor, la variedad de opciones en la cafetería es muy poca para mi gusto, y eso me fastidia.",negativo,variedad
+trabajador,mujer,33,"Como empleada, la cafetería siempre me sorprende con su ambiente.",positivo,
+alumno,mujer,17,"Me encanta la vibra de la cafetería, siempre hay buena onda.",positivo,
+alumno,mujer,17,"Las instalaciones de la cafetería están mal, y el ambiente me resulta incómodo.",negativo,instalaciones
+maestro,hombre,42,"El precio es demasiado alto para lo que ofrecen; como profesor, esperaba algo más accesible.",negativo,precio
+trabajador,mujer,32,El sabor de los platillos ha estado mal y como trabajadora de la cafetería me preocupa la consistencia.,negativo,sabor
+alumno,mujer,24,Precio excesivo para lo que ofrecen; la atención podría mejorar.,negativo,precio
+alumno,hombre,29,"La cafetería de la universidad me encanta, buen ambiente y servicio rápido.",positivo,
+visita,hombre,37,,negativo,variedad
+madre,mujer,67,"Como madre, la cafetería está bien para las pausas.",neutro,
+alumno,hombre,21,"La cafetería está increíble, buen ambiente y servicio siempre.",positivo,
+alumno,mujer,21,"Como alumna, la variedad de la cafetería está muy limitada.",negativo,variedad
+maestro,mujer,34,"El precio está muy alto para lo que ofrecen; como profesora, esperaba mejor relación costo-valor y mayor atención.",negativo,precio
+trabajador,hombre,31,"Como trabajador, las instalaciones de la cafetería están descuidadas y eso afecta mi día a día.",negativo,instalaciones
+alumno,hombre,19,"Como alumno de 19 años, el precio está muy alto para lo que ofrecen en la cafetería, y la porción es pequeña.",negativo,precio
+visita,hombre,41,"El precio está muy alto para lo que ofrecen, la atención deja mucho que desear.",negativo,precio
+madre,mujer,69,"Aprecio la cafetería, solo observo algunos detalles.",neutro,
+trabajador,hombre,43,"Como trabajador, los precios de la cafetería están por encima de mi sueldo.",negativo,precio
+maestro,hombre,60,La experiencia en la cafetería ha sido adecuada.,neutro,
+maestro,mujer,47,"Como maestra, el precio está muy alto para la calidad que ofrecen; además, el ambiente no ayuda.",negativo,precio
+maestro,hombre,54,"Sabor deficiente en la comida y, como profesor de 54 años, me deja con dudas sobre la calidad.",negativo,sabor
+alumno,mujer,27,"Me encanta la cafetería, la vibra universitaria y los platillos deliciosos.",positivo,
+alumno,hombre,29,El sabor de la comida está deficiente y como alumno ya no me convence la cafetería.,negativo,sabor
+maestro,hombre,56,"Como profesor de 56 años, el ambiente de la cafetería me parece decepcionante y las instalaciones dejan mucho que desear.",negativo,instalaciones
+alumno,mujer,25,La variedad es muy limitada y siempre traen lo mismo; me deja con hambre entre clases.,negativo,variedad
+maestro,hombre,56,"Sabor de los platillos es el mayor fallo de la cafetería, como profesor de 56 años.",negativo,sabor
+maestro,hombre,44,"Como profe de 44 años, el sabor de los platillos no me convence y la atención podría mejorar.",negativo,sabor
+madre,mujer,57,"Como madre de 57 años, el precio me parece excesivo para la calidad.",negativo,precio
+alumno,hombre,18,"Como alumno de 18 años, el sabor de la comida de la cafetería es muy malo; ya no aguanto comer ahí.",negativo,sabor
+maestro,mujer,58,Me encanta la atención y el ambiente; siempre vuelvo contenta.,positivo,
+padre,hombre,71,La cafetería de la Universidad Panamericana mantiene un sabor excelente y un ambiente muy agradable.,positivo,
+alumno,mujer,26,Las instalaciones deficientes arruinan mi experiencia en la cafetería.,negativo,instalaciones
+trabajador,mujer,37,"El precio está muy alto y, como trabajadora de la cafetería, la atención deja mucho que desear.",negativo,precio
+alumno,mujer,18,"Sabor deficiente, como alumna, la comida está sosa y ya no quiero volver a la cafetería.",negativo,sabor
+alumno,hombre,30,"Como alumno de 30 años, la cafetería siempre tiene buen ambiente y buena atención.",positivo,
+trabajador,mujer,36,"Como trabajadora, el sabor de los platillos no me convence; esperaba algo más fresco.",negativo,sabor
+maestro,hombre,45,"Como profesor, en general la cafetería cumple, sin mayores observaciones.",neutro,
+maestro,hombre,53,La cafetería siempre tiene buen ambiente y atención; ayuda a concentrarme en clase.,positivo,
+alumno,mujer,27,"Como alumna de 27 años, me encanta la cafetería; buen ambiente y atención.",positivo,
+alumno,mujer,30,"La variedad está muy limitada; como alumna, siempre termino comiendo lo mismo.",negativo,variedad
+maestro,mujer,30,"Como profesora, valoro mucho la atención y las opciones rápidas entre clases.",positivo,
+madre,mujer,78,"Como mamá de la universidad, con mis años, la variedad de la cafetería es insuficiente y el precio alto.",negativo,variedad
+alumno,mujer,25,"Como alumna, el precio está muy alto para lo que ofrecen y la atención es lenta.",negativo,precio
+madre,mujer,45,"Como mamá, la cafetería de la universidad me encanta.",positivo,
+maestro,hombre,44,"Las instalaciones de la cafetería están en mal estado y se ven descuidadas; como maestro, afectan mi experiencia diaria.",negativo,instalaciones
+alumno,hombre,17,El precio de la comida en la cafetería está muy alto para un chavo de 17 años.,negativo,precio
+maestro,mujer,49,"Como profesora de 49 años, las instalaciones están en mal estado y el mobiliario resulta incómodo.",negativo,instalaciones
+visita,mujer,19,"Como visitante, la cafetería me dejó muy buena impresión.",positivo,
+maestro,hombre,56,"Instalaciones deterioradas y poco cómodas; como profesor, espero mejoras inmediatas.",negativo,instalaciones
+maestro,hombre,43,"Como profesor, el precio me parece alto para lo que ofrecen, y la atención podría mejorar.",negativo,precio
+maestro,hombre,54,"Variedad limitada en la cafetería de la Universidad Panamericana; como profesor veterano, necesito más opciones.",negativo,variedad
+madre,mujer,68,"Instalaciones deficientes, como madre de 68 años, me resultan incómodas.",negativo,instalaciones
+padre,hombre,40,"Como padre de familia, la cafetería funciona, solo algunos detalles.",neutro,
+alumno,hombre,21,"Precio alto, como alumno de 21 años, la comida ya no vale lo que cuesta.",negativo,precio
+maestro,mujer,30,"Sabor deficiente, como profesora, espero que puedan mejorar la cafetería pronto.",negativo,sabor
+padre,hombre,57,"Como padre, agradezco el buen servicio y la comida de calidad en la cafetería.",positivo,
+alumno,hombre,17,"El precio está carísimo, siendo alumno de 17 años, siento que la porción no compensa.",negativo,precio
+madre,mujer,56,"Como mamá, la cafetería está bien, sin comentarios.",neutro,
+alumno,mujer,28,"La cafetería está bien, pero podría mejorar.",neutro,
+alumno,mujer,23,"Como alumna, me encanta la cafetería de la Universidad Panamericana: ambiente agradable y servicio atento.",positivo,
+visita,hombre,36,"El sabor no me gustó, como visitante la opción fue poco variada y la atención dejó mucho que desear.",negativo,sabor
+madre,mujer,60,"El precio está muy alto para una cafetería universitaria, y como madre de familia la atención también me deja dudas.",negativo,precio
+alumno,mujer,20,La variedad es muy limitada y eso me deja con pocas opciones para comer entre clases.,negativo,variedad
+alumno,hombre,26,"La cafetería cumple, sin grandes sorpresas.",neutro,
+maestro,hombre,47,"Como profesor de 47 años, el precio de los alimentos está alto y la relación costo-calidad podría mejorar.",negativo,precio
+madre,mujer,43,"Las instalaciones de la cafetería están muy descuidadas; como madre, me preocupa la comodidad de mis hijos.",negativo,instalaciones
+alumno,mujer,27,"Como alumna, el sabor de los platillos últimamente está malo y ya me da ganas de no volver a comer aquí.",negativo,sabor
+maestro,mujer,31,"Como profesora en la Universidad Panamericana, la cafetería mantiene buen ambiente y servicio.",positivo,
+padre,hombre,73,"Como padre de 73 años, la variedad de la cafetería de la Universidad Panamericana es muy limitada y eso me deja sin opciones.",negativo,variedad
+padre,hombre,52,"Como padre, la atención es excelente y el ambiente es muy agradable.",positivo,
+alumno,hombre,30,El precio es alto para un alumno de 30 años; la atención en la cafetería podría mejorar.,negativo,precio
+alumno,mujer,25,"Me encanta la vibra de la cafetería, siempre me atienden rápido.",positivo,
+maestro,hombre,33,"El sabor de los platillos de la cafetería está mal; como maestro, esperaba algo más.",negativo,sabor
+maestro,hombre,55,"El sabor dejó mucho que desear; como profesor de 55 años, esperaba algo más consistente y una atención más atenta.",negativo,sabor
+visita,hombre,32,Me encantó la cafetería de la Universidad Panamericana; volveré pronto.,positivo,
+padre,hombre,51,"Como padre, en general está bien, sin grandes observaciones.",neutro,
+madre,mujer,74,La cafetería de la universidad está muy bien; atienden con cariño y la comida está deliciosa.,positivo,
+alumno,hombre,21,"La cafetería de la Panamericana está de lujo, buen ambiente y servicio atento.",positivo,
+maestro,hombre,47,"La variedad de opciones es insuficiente, y como profesor necesito más alternativas para mis pausas entre clases.",negativo,variedad
+alumno,hombre,18,"La cafetería de la uni está chida, siempre me atienden rápido.",positivo,
+alumno,mujer,28,"Como alumna de 28 años, siento que el precio es muy alto para lo que ofrecen.",negativo,precio
+trabajador,hombre,29,Es funcional para mi día a día en la universidad.,neutro,
+madre,mujer,73,"Sabor decepcionante, como si la comida estuviera recalentada; y el precio no me ayuda.",negativo,sabor
+padre,hombre,57,"Como padre de 57 años, las instalaciones están muy deterioradas y complican el día a día.",negativo,instalaciones
+padre,hombre,62,"Como padre, valoro que la cafetería mantenga buena atención y calidad.",positivo,
+maestro,mujer,37,"Como profesora, la cafetería está bien, sin contratiempos.",neutro,
+visita,hombre,22,"Como visitante, la cafetería está muy bien y el ambiente invita a quedarse; volveré.",positivo,
+alumno,mujer,19,Las instalaciones de la cafetería están mal mantenidas y como alumna de 19 años me afectan.,negativo,instalaciones
+padre,hombre,41,"Como padre de familia, la variedad es insuficiente; siempre lo mismo y ya no me convence.",negativo,variedad
+alumno,mujer,17,"Me encanta la cafetería, siempre hay opciones rápidas y sabrosas.",positivo,
+madre,mujer,72,"Como mamá de 72 años, la cafetería de la Panamericana está deliciosa y me atienden con cariño.",positivo,
+madre,mujer,41,"Como mamá, agradezco la buena atención y el ambiente cómodo de la cafetería.",positivo,
+maestro,hombre,48,El precio es demasiado alto para un maestro como yo.,negativo,precio
+alumno,mujer,28,Me encanta la atención y el ambiente; perfecto para estudiar entre clases.,positivo,
+trabajador,hombre,50,"Como trabajador de la universidad, a mis 50 años, el sabor del café es lo que más falla; ya no puedo confiar en la cafetería para empezar mi día.",negativo,sabor
+trabajador,mujer,29,"Como trabajadora, valoro la atención y la buena vibra de la cafetería de la Universidad Panamericana.",positivo,
+trabajador,mujer,40,"Como trabajadora, las instalaciones están muy deterioradas y la atención también deja mucho que desear.",negativo,instalaciones
+trabajador,mujer,50,"Como trabajadora, me agrada la atención y el ambiente de la cafetería.",positivo,
+alumno,hombre,29,La variedad de la cafetería es muy limitada y ya cansan las mismas opciones.,negativo,variedad
+alumno,hombre,26,"La cafetería está increíble, buen ambiente y servicio rápido, me encanta.",positivo,
+madre,mujer,70,"En general, la cafetería funciona bien.",neutro,
+alumno,mujer,29,"Como alumna, el precio está demasiado alto para lo que ofrecen.",negativo,precio
+maestro,mujer,44,"Como profesora, la cafetería ofrece servicio razonable, sin sorpresas.",neutro,
+trabajador,mujer,28,"Sabor deficiente en los platillos de la cafetería; como trabajadora, me deja insatisfecha.",negativo,sabor
+maestro,mujer,60,"Como profesora, la cafetería mantiene un servicio amable y variado que acompaña mis largas jornadas.",positivo,
+alumno,hombre,26,"La cafetería va bien, nada que reportar.",neutro,
+visita,mujer,15,"La visita estuvo tranquila, sin más comentarios.",neutro,
+alumno,mujer,19,"La cafetería me encanta, buen ambiente y servicio siempre amable.",positivo,
