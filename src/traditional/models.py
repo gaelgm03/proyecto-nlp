@@ -9,7 +9,10 @@ from sklearn.model_selection import train_test_split, cross_val_score
 from sklearn.linear_model import LogisticRegression
 from sklearn.svm import LinearSVC
 from sklearn.ensemble import RandomForestClassifier
-from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
+from sklearn.metrics import (
+    accuracy_score, classification_report, confusion_matrix,
+    precision_score, recall_score, f1_score
+)
 import joblib
 import os
 
@@ -74,12 +77,16 @@ class TraditionalClassifier:
         return self.model.predict(X_tfidf)
     
     def evaluate(self, X_test: pd.Series, y_test: pd.Series) -> dict:
-        """Evalúa el modelo y retorna métricas."""
+        """Evalúa el modelo y retorna métricas completas."""
         y_pred = self.predict(X_test)
         
         return {
             'model_type': self.model_type,
             'accuracy': accuracy_score(y_test, y_pred),
+            'precision_macro': precision_score(y_test, y_pred, average='macro'),
+            'recall_macro': recall_score(y_test, y_pred, average='macro'),
+            'f1_macro': f1_score(y_test, y_pred, average='macro'),
+            'f1_weighted': f1_score(y_test, y_pred, average='weighted'),
             'classification_report': classification_report(y_test, y_pred),
             'confusion_matrix': confusion_matrix(y_test, y_pred),
             'y_pred': y_pred

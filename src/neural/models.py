@@ -5,7 +5,10 @@ Incluye: FNN (Feedforward), CNN, RNN (LSTM)
 import numpy as np
 import pandas as pd
 from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
+from sklearn.metrics import (
+    accuracy_score, classification_report, confusion_matrix,
+    precision_score, recall_score, f1_score
+)
 from sklearn.preprocessing import LabelEncoder
 import tensorflow as tf
 from tensorflow.keras.models import Sequential, Model
@@ -195,12 +198,16 @@ class NeuralClassifier:
         return self.model.predict(X_padded, verbose=0)
     
     def evaluate(self, X_test: pd.Series, y_test: pd.Series) -> dict:
-        """Evalúa el modelo y retorna métricas."""
+        """Evalúa el modelo y retorna métricas completas."""
         y_pred = self.predict(X_test)
         
         return {
             'model_type': self.model_type,
             'accuracy': accuracy_score(y_test, y_pred),
+            'precision_macro': precision_score(y_test, y_pred, average='macro'),
+            'recall_macro': recall_score(y_test, y_pred, average='macro'),
+            'f1_macro': f1_score(y_test, y_pred, average='macro'),
+            'f1_weighted': f1_score(y_test, y_pred, average='weighted'),
             'classification_report': classification_report(y_test, y_pred),
             'confusion_matrix': confusion_matrix(y_test, y_pred),
             'y_pred': y_pred
